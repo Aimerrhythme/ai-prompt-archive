@@ -41,3 +41,15 @@ media/images/                     图片
 media/video-stills/               视频截图
 docs/entry-convention.md          字段与模板
 ```
+
+## 索引
+
+最新在上。每行链接到条目文件，作者列链接到原帖。
+
+| 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
+| --- | --- | --- | --- | --- |
+| 2026-10-28 | [哥特西部枪手衣装（kk 衣装 prompt）](entries/2026-10-28/2115008729452253285.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2115008729452253285) |
+| 2026-10-28 | [#プロンプトなのに：画出 AI 相棒觉得最无所谓的一段对话](entries/2026-10-28/2114499888759374287.md) | 其它 | 未注明（对话式 AI 绘图，原帖未写具体模型） | [@noninoni_ochan](https://x.com/noninoni_ochan/status/2114499888759374287) |
+| 2026-10-28 | [日式动画电影风：新年家宴上的婆媳冲突](entries/2026-10-28/2114709909178810799.md) | 二次元 | Nano Banana 2.1 vs GPT Image 2.5（左 / 右） | [@ViralOps_](https://x.com/ViralOps_/status/2114709909178810799) |
+| 2026-10-28 | [万圣节电影级场景 prompt 合集（7 条）](entries/2026-10-28/2114913715355254786.md) | 其它 | Nano Banana 2.1、GPT Image 2.5 Sunburst；终章另有 Nano Banana Pro、Seedream 5.0 Pro | [@DJpowers69](https://x.com/DJpowers69/status/2114913715355254786) |
+| 2026-10-28 | [用 Seedance 2.5 出静帧：网红风写实人像](entries/2026-10-28/2115216612030865415.md) | 真人 | Seedance 2.5（视频取帧） vs Nano Banana 2.1 | [@purrdoom](https://x.com/purrdoom/status/2115216612030865415) |
