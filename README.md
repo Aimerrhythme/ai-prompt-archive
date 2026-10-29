@@ -48,6 +48,13 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-10-29 | [Seedance 2.5 韩剧风三幕短片：沙滩、坠云与对视](entries/2026-10-29/2114556037907042623.md) | 真人 | Seedance 2.5 | [@Soaima_Ai](https://x.com/Soaima_Ai/status/2114556037907042623) |
+| 2026-10-29 | [Seedance 2.5 韩剧风便利店打斗分镜（7 个镜头）](entries/2026-10-29/2115620531949183253.md) | 真人 | Seedance 2.5 | [@ItsMaryamAi](https://x.com/ItsMaryamAi/status/2115620531949183253) |
+| 2026-10-29 | [国际动画日：按你的个性生成架空动画竖版四格（v6.0）](entries/2026-10-29/2115171681941463097.md) | 二次元 | 未注明（对话式 AI 生图；原帖未写具体模型） | [@nyankosensei083](https://x.com/nyankosensei083/status/2115171681941463097) |
+| 2026-10-29 | [原创女超人凌空接住坠落电车（图像小说绘画风）](entries/2026-10-29/2115549169376956883.md) | 其它 | Midjourney v8.2 | [@tisch_eins](https://x.com/tisch_eins/status/2115549169376956883) |
+| 2026-10-29 | [同一万圣节 prompt 跑 4 个视频模型：小猫讨糖“背叛”](entries/2026-10-29/2115347985991455217.md) | 其它 | Kling 3.0 Pro、Veo 3.1、Seedance 2.5、Seedance 2.0 Fast（A–D 对照） | [@maker_evan](https://x.com/maker_evan/status/2115347985991455217) |
+| 2026-10-29 | [SQL 式结构化 prompt：时代角色 + 实拍道具霓虹海报](entries/2026-10-29/2115008601945497789.md) | 其它 | GPT Image 2.5（原帖写作 “GPT 2.5”） | [@Gdgtify](https://x.com/Gdgtify/status/2115008601945497789) |
+| 2026-10-29 | [Wind Through the Pale：沙漠白衣时装大片三连拍](entries/2026-10-29/2114871990540734543.md) | 真人 | Gemini Nano Banana Pro | [@SakiH_AI](https://x.com/SakiH_AI/status/2114871990540734543) |
 | 2026-10-28 | [哥特西部枪手衣装（kk 衣装 prompt）](entries/2026-10-28/2115008729452253285.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2115008729452253285) |
 | 2026-10-28 | [#プロンプトなのに：画出 AI 相棒觉得最无所谓的一段对话](entries/2026-10-28/2114499888759374287.md) | 其它 | 未注明（对话式 AI 绘图，原帖未写具体模型） | [@noninoni_ochan](https://x.com/noninoni_ochan/status/2114499888759374287) |
 | 2026-10-28 | [日式动画电影风：新年家宴上的婆媳冲突](entries/2026-10-28/2114709909178810799.md) | 二次元 | Nano Banana 2.1 vs GPT Image 2.5（左 / 右） | [@ViralOps_](https://x.com/ViralOps_/status/2114709909178810799) |
