@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-10-30 | [ChatGPT 人物分析型万圣节糖果图](entries/2026-10-30/2115745476737659338.md) | 其它 | ChatGPT（图像生成） | [@_a5_s_](https://x.com/_a5_s_/status/2115745476737659338) |
+| 2026-10-30 | [万圣节魔女衣装 3 模式](entries/2026-10-30/2115543547906785502.md) | 二次元 | 未注明（日系 AI 插画 / NovelAI 类） | [@yumey4183](https://x.com/yumey4183/status/2115543547906785502) |
+| 2026-10-30 | [Ghibli 风自制草莓酱动画](entries/2026-10-30/2114886198745592113.md) | 二次元 | 未注明（动漫风视频；Ghibli aesthetic） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2114886198745592113) |
+| 2026-10-30 | [Midjourney 角色三视图：淡紫发少女](entries/2026-10-30/2115884120626602040.md) | 二次元 | Midjourney v6.1 | [@jackchen1919](https://x.com/jackchen1919/status/2115884120626602040) |
+| 2026-10-30 | [户外金发人像：视频 + 图片 prompt 与文案](entries/2026-10-30/2115736986170655086.md) | 真人 | Sora / Runway / Pika / Veo；Midjourney / Stable Diffusion | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2115736986170655086) |
+| 2026-10-30 | [蓝发宇宙主题近景肖像（ALT prompt）](entries/2026-10-30/2115820527319466463.md) | 二次元 | 未注明（NAI/pixAI 可用，原帖自述） | [@h4gure_b0sh1](https://x.com/h4gure_b0sh1/status/2115820527319466463) |
 | 2026-10-29 | [Seedance 2.5 韩剧风三幕短片：沙滩、坠云与对视](entries/2026-10-29/2114556037907042623.md) | 真人 | Seedance 2.5 | [@Soaima_Ai](https://x.com/Soaima_Ai/status/2114556037907042623) |
 | 2026-10-29 | [Seedance 2.5 韩剧风便利店打斗分镜（7 个镜头）](entries/2026-10-29/2115620531949183253.md) | 真人 | Seedance 2.5 | [@ItsMaryamAi](https://x.com/ItsMaryamAi/status/2115620531949183253) |
 | 2026-10-29 | [国际动画日：按你的个性生成架空动画竖版四格（v6.0）](entries/2026-10-29/2115171681941463097.md) | 二次元 | 未注明（对话式 AI 生图；原帖未写具体模型） | [@nyankosensei083](https://x.com/nyankosensei083/status/2115171681941463097) |
