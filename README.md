@@ -56,6 +56,11 @@ docs/entry-convention.md          字段与模板
 | 2026-10-30 | [Seedance 2.5：粉龙与中世纪厨娘烤饼短片](entries/2026-10-30/2116120087510008055.md) | 其它 | Seedance 2.5（PixVerse） | [@wiliam_web3](https://x.com/wiliam_web3/status/2116120087510008055) |
 | 2026-10-30 | [户外金发特写：睁眼与轻舔嘴唇（视频/生图双 prompt）](entries/2026-10-30/2115736986170655086.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2115736986170655086) |
 | 2026-10-30 | [樱桃红舞台偶像：乳胶兔耳造型（Nano Banana Pro）](entries/2026-10-30/2115566076855812188.md) | 真人 | Nano Banana Pro（AI Studio） | [@alicehan_ai](https://x.com/alicehan_ai/status/2115566076855812188) |
+| 2026-10-30 | [ChatGPT 人物分析型万圣节糖果图](entries/2026-10-30/2115745476737659338.md) | 其它 | ChatGPT（图像生成） | [@_a5_s_](https://x.com/_a5_s_/status/2115745476737659338) |
+| 2026-10-30 | [万圣节魔女衣装 3 模式](entries/2026-10-30/2115543547906785502.md) | 二次元 | 未注明（日系 AI 插画 / NovelAI 类） | [@yumey4183](https://x.com/yumey4183/status/2115543547906785502) |
+| 2026-10-30 | [Ghibli 风自制草莓酱动画](entries/2026-10-30/2114886198745592113.md) | 二次元 | 未注明（动漫风视频；Ghibli aesthetic） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2114886198745592113) |
+| 2026-10-30 | [Midjourney 角色三视图：淡紫发少女](entries/2026-10-30/2115884120626602040.md) | 二次元 | Midjourney v6.1 | [@jackchen1919](https://x.com/jackchen1919/status/2115884120626602040) |
+| 2026-10-30 | [蓝发宇宙主题近景肖像（ALT prompt）](entries/2026-10-30/2115820527319466463.md) | 二次元 | 未注明（NAI/pixAI 可用，原帖自述） | [@h4gure_b0sh1](https://x.com/h4gure_b0sh1/status/2115820527319466463) |
 | 2026-10-29 | [Seedance 2.5 韩剧风三幕短片：沙滩、坠云与对视](entries/2026-10-29/2114556037907042623.md) | 真人 | Seedance 2.5 | [@Soaima_Ai](https://x.com/Soaima_Ai/status/2114556037907042623) |
 | 2026-10-29 | [Seedance 2.5 韩剧风便利店打斗分镜（7 个镜头）](entries/2026-10-29/2115620531949183253.md) | 真人 | Seedance 2.5 | [@ItsMaryamAi](https://x.com/ItsMaryamAi/status/2115620531949183253) |
 | 2026-10-29 | [国际动画日：按你的个性生成架空动画竖版四格（v6.0）](entries/2026-10-29/2115171681941463097.md) | 二次元 | 未注明（对话式 AI 生图；原帖未写具体模型） | [@nyankosensei083](https://x.com/nyankosensei083/status/2115171681941463097) |
