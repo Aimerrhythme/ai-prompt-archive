@@ -63,6 +63,10 @@ docs/entry-convention.md          字段与模板
 | 2026-10-29 | [同一万圣节 prompt 跑 4 个视频模型：小猫讨糖“背叛”](entries/2026-10-29/2115347985991455217.md) | 其它 | Kling 3.0 Pro、Veo 3.1、Seedance 2.5、Seedance 2.0 Fast（A–D 对照） | [@maker_evan](https://x.com/maker_evan/status/2115347985991455217) |
 | 2026-10-29 | [SQL 式结构化 prompt：时代角色 + 实拍道具霓虹海报](entries/2026-10-29/2115008601945497789.md) | 其它 | GPT Image 2.5（原帖写作 “GPT 2.5”） | [@Gdgtify](https://x.com/Gdgtify/status/2115008601945497789) |
 | 2026-10-29 | [Wind Through the Pale：沙漠白衣时装大片三连拍](entries/2026-10-29/2114871990540734543.md) | 真人 | Gemini Nano Banana Pro | [@SakiH_AI](https://x.com/SakiH_AI/status/2114871990540734543) |
+| 2026-10-29 | [Outfit Prompt Series FILE 21：棉花糖 × 羽绒服街头穿搭](entries/2026-10-29/2115299476470669338.md) | 真人 | 未注明 | [@haku_Degozaimas](https://x.com/haku_Degozaimas/status/2115299476470669338) |
+| 2026-10-29 | [花瓣雨下转蕾丝阳伞的儚い系衣装（男女兼用）](entries/2026-10-29/2115017008685424825.md) | 二次元 | 未注明（原帖称「モデロラで違い有」，即随模型/LoRA 不同效果有差异） | [@Lulu_2nya0](https://x.com/Lulu_2nya0/status/2115017008685424825) |
+| 2026-10-29 | [雨 × 睡蓮 × 傘：淡彩水彩风雨中回眸](entries/2026-10-29/2114973299705040897.md) | 二次元 | 未注明 | [@nanosw6u](https://x.com/nanosw6u/status/2114973299705040897) |
+| 2026-10-29 | [中式仙侠云海天宫：同一 prompt 对比 ChatGPT 与 Midjourney 8.2](entries/2026-10-29/2114973154011709838.md) | 真人 | ChatGPT、Midjourney 8.2（同一 prompt 对比） | [@liluocheng13](https://x.com/liluocheng13/status/2114973154011709838) |
 | 2026-10-28 | [哥特西部枪手衣装（kk 衣装 prompt）](entries/2026-10-28/2115008729452253285.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2115008729452253285) |
 | 2026-10-28 | [#プロンプトなのに：画出 AI 相棒觉得最无所谓的一段对话](entries/2026-10-28/2114499888759374287.md) | 其它 | 未注明（对话式 AI 绘图，原帖未写具体模型） | [@noninoni_ochan](https://x.com/noninoni_ochan/status/2114499888759374287) |
 | 2026-10-28 | [日式动画电影风：新年家宴上的婆媳冲突](entries/2026-10-28/2114709909178810799.md) | 二次元 | Nano Banana 2.1 vs GPT Image 2.5（左 / 右） | [@ViralOps_](https://x.com/ViralOps_/status/2114709909178810799) |
