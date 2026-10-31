@@ -48,11 +48,18 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-10-30 | [白缎芭蕾 tutu 婚纱与足尖鞋（衣装 prompt）](entries/2026-10-30/2115639760471638177.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115639760471638177) |
+| 2026-10-30 | [黑猫芭蕾 tutu 衣装（含爪套与猫耳）](entries/2026-10-30/2115760567881499086.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115760567881499086) |
+| 2026-10-30 | [灰针织帽 + 毛衣宽裤靴装（衣装 prompt）](entries/2026-10-30/2116002158080655473.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2116002158080655473) |
+| 2026-10-30 | [蜜蜂刺绣毛衣与蜂巢迷你裙靴装](entries/2026-10-30/2116062546600071334.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2116062546600071334) |
+| 2026-10-30 | [深紫万圣节图案和服（南瓜蝙蝠鬼月）](entries/2026-10-30/2116122953951871387.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2116122953951871387) |
+| 2026-10-30 | [Seedance 2.5：粉龙与中世纪厨娘烤饼短片](entries/2026-10-30/2116120087510008055.md) | 其它 | Seedance 2.5（PixVerse） | [@wiliam_web3](https://x.com/wiliam_web3/status/2116120087510008055) |
+| 2026-10-30 | [户外金发特写：睁眼与轻舔嘴唇（视频/生图双 prompt）](entries/2026-10-30/2115736986170655086.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2115736986170655086) |
+| 2026-10-30 | [樱桃红舞台偶像：乳胶兔耳造型（Nano Banana Pro）](entries/2026-10-30/2115566076855812188.md) | 真人 | Nano Banana Pro（AI Studio） | [@alicehan_ai](https://x.com/alicehan_ai/status/2115566076855812188) |
 | 2026-10-30 | [ChatGPT 人物分析型万圣节糖果图](entries/2026-10-30/2115745476737659338.md) | 其它 | ChatGPT（图像生成） | [@_a5_s_](https://x.com/_a5_s_/status/2115745476737659338) |
 | 2026-10-30 | [万圣节魔女衣装 3 模式](entries/2026-10-30/2115543547906785502.md) | 二次元 | 未注明（日系 AI 插画 / NovelAI 类） | [@yumey4183](https://x.com/yumey4183/status/2115543547906785502) |
 | 2026-10-30 | [Ghibli 风自制草莓酱动画](entries/2026-10-30/2114886198745592113.md) | 二次元 | 未注明（动漫风视频；Ghibli aesthetic） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2114886198745592113) |
 | 2026-10-30 | [Midjourney 角色三视图：淡紫发少女](entries/2026-10-30/2115884120626602040.md) | 二次元 | Midjourney v6.1 | [@jackchen1919](https://x.com/jackchen1919/status/2115884120626602040) |
-| 2026-10-30 | [户外金发人像：视频 + 图片 prompt 与文案](entries/2026-10-30/2115736986170655086.md) | 真人 | Sora / Runway / Pika / Veo；Midjourney / Stable Diffusion | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2115736986170655086) |
 | 2026-10-30 | [蓝发宇宙主题近景肖像（ALT prompt）](entries/2026-10-30/2115820527319466463.md) | 二次元 | 未注明（NAI/pixAI 可用，原帖自述） | [@h4gure_b0sh1](https://x.com/h4gure_b0sh1/status/2115820527319466463) |
 | 2026-10-29 | [Seedance 2.5 韩剧风三幕短片：沙滩、坠云与对视](entries/2026-10-29/2114556037907042623.md) | 真人 | Seedance 2.5 | [@Soaima_Ai](https://x.com/Soaima_Ai/status/2114556037907042623) |
 | 2026-10-29 | [Seedance 2.5 韩剧风便利店打斗分镜（7 个镜头）](entries/2026-10-29/2115620531949183253.md) | 真人 | Seedance 2.5 | [@ItsMaryamAi](https://x.com/ItsMaryamAi/status/2115620531949183253) |
@@ -61,6 +68,10 @@ docs/entry-convention.md          字段与模板
 | 2026-10-29 | [同一万圣节 prompt 跑 4 个视频模型：小猫讨糖“背叛”](entries/2026-10-29/2115347985991455217.md) | 其它 | Kling 3.0 Pro、Veo 3.1、Seedance 2.5、Seedance 2.0 Fast（A–D 对照） | [@maker_evan](https://x.com/maker_evan/status/2115347985991455217) |
 | 2026-10-29 | [SQL 式结构化 prompt：时代角色 + 实拍道具霓虹海报](entries/2026-10-29/2115008601945497789.md) | 其它 | GPT Image 2.5（原帖写作 “GPT 2.5”） | [@Gdgtify](https://x.com/Gdgtify/status/2115008601945497789) |
 | 2026-10-29 | [Wind Through the Pale：沙漠白衣时装大片三连拍](entries/2026-10-29/2114871990540734543.md) | 真人 | Gemini Nano Banana Pro | [@SakiH_AI](https://x.com/SakiH_AI/status/2114871990540734543) |
+| 2026-10-29 | [Outfit Prompt Series FILE 21：棉花糖 × 羽绒服街头穿搭](entries/2026-10-29/2115299476470669338.md) | 真人 | 未注明 | [@haku_Degozaimas](https://x.com/haku_Degozaimas/status/2115299476470669338) |
+| 2026-10-29 | [花瓣雨下转蕾丝阳伞的儚い系衣装（男女兼用）](entries/2026-10-29/2115017008685424825.md) | 二次元 | 未注明（原帖称「モデロラで違い有」，即随模型/LoRA 不同效果有差异） | [@Lulu_2nya0](https://x.com/Lulu_2nya0/status/2115017008685424825) |
+| 2026-10-29 | [雨 × 睡蓮 × 傘：淡彩水彩风雨中回眸](entries/2026-10-29/2114973299705040897.md) | 二次元 | 未注明 | [@nanosw6u](https://x.com/nanosw6u/status/2114973299705040897) |
+| 2026-10-29 | [中式仙侠云海天宫：同一 prompt 对比 ChatGPT 与 Midjourney 8.2](entries/2026-10-29/2114973154011709838.md) | 真人 | ChatGPT、Midjourney 8.2（同一 prompt 对比） | [@liluocheng13](https://x.com/liluocheng13/status/2114973154011709838) |
 | 2026-10-28 | [哥特西部枪手衣装（kk 衣装 prompt）](entries/2026-10-28/2115008729452253285.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2115008729452253285) |
 | 2026-10-28 | [#プロンプトなのに：画出 AI 相棒觉得最无所谓的一段对话](entries/2026-10-28/2114499888759374287.md) | 其它 | 未注明（对话式 AI 绘图，原帖未写具体模型） | [@noninoni_ochan](https://x.com/noninoni_ochan/status/2114499888759374287) |
 | 2026-10-28 | [日式动画电影风：新年家宴上的婆媳冲突](entries/2026-10-28/2114709909178810799.md) | 二次元 | Nano Banana 2.1 vs GPT Image 2.5（左 / 右） | [@ViralOps_](https://x.com/ViralOps_/status/2114709909178810799) |
