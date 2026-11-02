@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-02 | [爱丽丝×皇家军服：粉蓝军官帽与围裙式军装（衣装 prompt）](entries/2026-11-02/2116296588306112811.md) | 二次元 | 未注明（日系 AI 插画 / 衣装プロンプト） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116296588306112811) |
+| 2026-11-02 | [Clockwork Alice：机械齿轮爱丽丝礼服（衣装 prompt）](entries/2026-11-02/2116658977320898835.md) | 二次元 | 未注明（日系 AI 插画 / 衣装プロンプト） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116658977320898835) |
+| 2026-11-02 | [室内金发特写：睁眼咬唇与深呼吸（视频/生图双 prompt）](entries/2026-11-02/2116337407356527064.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2116337407356527064) |
+| 2026-11-02 | [俯拍金发特写：白床黑背心与咬唇（生图双 prompt）](entries/2026-11-02/2116156702777348480.md) | 真人 | Midjourney / Stable Diffusion；DALL-E 3（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2116156702777348480) |
+| 2026-11-02 | [白色礼式军服学院装（衣装 prompt）](entries/2026-11-02/2116832634454098359.md) | 二次元 | 未注明（日系 AI 插画 / 衣装プロンプト） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116832634454098359) |
+| 2026-11-02 | [猫耳万圣节地雷系哥特女仆装（衣装 prompt）](entries/2026-11-02/2116485351762174013.md) | 二次元 | 未注明（日系 AI 插画 / 衣装プロンプト） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116485351762174013) |
 | 2026-10-30 | [白缎芭蕾 tutu 婚纱与足尖鞋（衣装 prompt）](entries/2026-10-30/2115639760471638177.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115639760471638177) |
 | 2026-10-30 | [黑猫芭蕾 tutu 衣装（含爪套与猫耳）](entries/2026-10-30/2115760567881499086.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115760567881499086) |
 | 2026-10-30 | [灰针织帽 + 毛衣宽裤靴装（衣装 prompt）](entries/2026-10-30/2116002158080655473.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2116002158080655473) |
