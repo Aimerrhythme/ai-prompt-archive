@@ -48,6 +48,15 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-02 | [校园泳池边走向两位男生（Seedance 2.5 图生视频）](entries/2026-11-02/2116792378103345437.md) | 真人 | Seedance 2.5 | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2116792378103345437) |
+| 2026-11-02 | [角色脸部去斑驳：皮肤/发丝质感参考图 + 通用 prompt](entries/2026-11-02/2116291838852141297.md) | 真人 | Seedream 5.0 Flash（作者称亦可对比 Nano Banana 2.1 / GPT Image 2.5） | [@Kiber_Alla](https://x.com/Kiber_Alla/status/2116291838852141297) |
+| 2026-11-02 | [金发高丸子头水润肌特写（视频/生图双 prompt）](entries/2026-11-02/2116101602746794188.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2116101602746794188) |
+| 2026-11-02 | [三格漫画「又摔倒了？来，手」：眼镜西装男回头-扶额-伸手](entries/2026-11-02/2117125322261062014.md) | 二次元 | NovelAI / TSUBAKI3 / ChatGPT（作者注明） | [@shiyuhu_tadano](https://x.com/shiyuhu_tadano/status/2117125322261062014) |
+| 2026-11-02 | [韩国夜市街头动作喜剧（Seedance 2.5）](entries/2026-11-02/2116450362182021476.md) | 真人 | Seedance 2.5 | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2116450362182021476) |
+| 2026-11-02 | [废弃拳馆红卫衣女主分镜（Seedance 2.5 故事板 prompt）](entries/2026-11-02/2116739355205308486.md) | 真人 | Seedance 2.5 | [@ItsMaryamAi](https://x.com/ItsMaryamAi/status/2116739355205308486) |
+| 2026-11-02 | [2000 年代日本 MiniDV 私人录像风：雨天便利店（Kling 4.0）](entries/2026-11-02/2116485412785148192.md) | 真人 | Kling 4.0（PixVerse 平台） | [@PixVerse](https://x.com/PixVerse/status/2116485412785148192) |
+| 2026-11-02 | [古风仙女汉服回眸人像（Seedance 提示词 37/100）](entries/2026-11-02/2116581101452009882.md) | 真人 | Seedance（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2116581101452009882) |
+| 2026-11-02 | [银灰吊带针织裙摄影棚人像（GPT Image 提示词 38/100）](entries/2026-11-02/2116603002513666240.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2116603002513666240) |
 | 2026-10-30 | [白缎芭蕾 tutu 婚纱与足尖鞋（衣装 prompt）](entries/2026-10-30/2115639760471638177.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115639760471638177) |
 | 2026-10-30 | [黑猫芭蕾 tutu 衣装（含爪套与猫耳）](entries/2026-10-30/2115760567881499086.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2115760567881499086) |
 | 2026-10-30 | [灰针织帽 + 毛衣宽裤靴装（衣装 prompt）](entries/2026-10-30/2116002158080655473.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2116002158080655473) |
