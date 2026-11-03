@@ -48,6 +48,11 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-03 | [未来感高定礼服 × 城市街景全身人像（GPT Image）](entries/2026-11-03/2117149893399916637.md) | 真人 | GPT Image | [@MrGafish](https://x.com/MrGafish/status/2117149893399916637) |
+| 2026-11-03 | [日蝕メイド / 日蝕バトラー：黑金日蚀光轮哥特女仆与执事](entries/2026-11-03/2117210138868347221.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2117210138868347221) |
+| 2026-11-03 | [黑蕾丝猫耳贝雷帽 + 灰紫麻花针织 + 纱裙（衣装 prompt）](entries/2026-11-03/2116376360595882211.md) | 二次元 | 未注明 | [@naanfa257023](https://x.com/naanfa257023/status/2116376360595882211) |
+| 2026-11-03 | [手绘人物 × 写实月亮：虚实结合创意海报模板（GPT-Image 2.5）](entries/2026-11-03/2117283999479706099.md) | 其它 | GPT-Image 2.5 | [@MrLarus](https://x.com/MrLarus/status/2117283999479706099) |
+| 2026-11-03 | [Midjourney 起始帧 + 同一 prompt 跑 6 个视频模型：武士斩外星生物](entries/2026-11-03/2116879021002625229.md) | 其它 | 起始帧 Midjourney v8.2；视频 H3 Max / FLUX 3 Max / Gemini Omni Flash v1.1 / Seedance 2.5 / Kling v4 / Wan 3.0 | [@ozansihay](https://x.com/ozansihay/status/2116879021002625229) |
 | 2026-11-02 | [校园泳池边走向两位男生（Seedance 2.5 图生视频）](entries/2026-11-02/2116792378103345437.md) | 真人 | Seedance 2.5 | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2116792378103345437) |
 | 2026-11-02 | [角色脸部去斑驳：皮肤/发丝质感参考图 + 通用 prompt](entries/2026-11-02/2116291838852141297.md) | 真人 | Seedream 5.0 Flash（作者称亦可对比 Nano Banana 2.1 / GPT Image 2.5） | [@Kiber_Alla](https://x.com/Kiber_Alla/status/2116291838852141297) |
 | 2026-11-02 | [金发高丸子头水润肌特写（视频/生图双 prompt）](entries/2026-11-02/2116101602746794188.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2116101602746794188) |
