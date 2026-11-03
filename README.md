@@ -48,6 +48,14 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-03 | [行李转盘上的 Q 版角色（#るんプロンプト 第238弾）](entries/2026-11-03/2116674075816772023.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116674075816772023) |
+| 2026-11-03 | [日式 RPG 魔物图鉴页：把自家角色做成稀有怪物（#るんプロンプト 第241弾）](entries/2026-11-03/2117225212634648950.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2117225212634648950) |
+| 2026-11-03 | [午夜马戏团团长衣装（女/男两版 prompt）](entries/2026-11-03/2116817651603550383.md) | 二次元 | 未注明（日系 AI 插画） | [@AIXyu1v](https://x.com/AIXyu1v/status/2116817651603550383) |
+| 2026-11-03 | [「一键杂志封面风」通用质量/排版 tag 串](entries/2026-11-03/2116872221868302673.md) | 二次元 | 未注明（tag 式 prompt，适用 NovelAI / SD 类） | [@YukimitiMuti2](https://x.com/YukimitiMuti2/status/2116872221868302673) |
+| 2026-11-03 | [DV 手持感健身房 vlog 分镜（Seedance 2.5 vs Kling 4.0 同 prompt 对比）](entries/2026-11-03/2116635769729323171.md) | 真人 | Seedance 2.5 vs Kling 4.0（makeugc 平台，图像角色参考） | [@YourAlphaMom](https://x.com/YourAlphaMom/status/2116635769729323171) |
+| 2026-11-03 | [暗调红玫瑰贴唇写实人像](entries/2026-11-03/2116575930709660156.md) | 真人 | 未注明 | [@Monaqbuv](https://x.com/Monaqbuv/status/2116575930709660156) |
+| 2026-11-03 | [校车变形机甲武士时代广场斩怪（Seedance 2.5，30 秒逐秒分镜）](entries/2026-11-03/2116902934760108283.md) | 其它 | Seedance 2.5 | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2116902934760108283) |
+| 2026-11-03 | [沙漠加油站店主变身击败机械沙虫（Seedance 2.5，30 秒逐秒分镜）](entries/2026-11-03/2117089826390618536.md) | 其它 | Seedance 2.5 | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2117089826390618536) |
 | 2026-11-02 | [校园泳池边走向两位男生（Seedance 2.5 图生视频）](entries/2026-11-02/2116792378103345437.md) | 真人 | Seedance 2.5 | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2116792378103345437) |
 | 2026-11-02 | [角色脸部去斑驳：皮肤/发丝质感参考图 + 通用 prompt](entries/2026-11-02/2116291838852141297.md) | 真人 | Seedream 5.0 Flash（作者称亦可对比 Nano Banana 2.1 / GPT Image 2.5） | [@Kiber_Alla](https://x.com/Kiber_Alla/status/2116291838852141297) |
 | 2026-11-02 | [金发高丸子头水润肌特写（视频/生图双 prompt）](entries/2026-11-02/2116101602746794188.md) | 真人 | 视频：Sora / Runway Gen-2 / Pika / Veo；静帧：Midjourney / Stable Diffusion（作者示例） | [@JohnSmith5912](https://x.com/JohnSmith5912/status/2116101602746794188) |
