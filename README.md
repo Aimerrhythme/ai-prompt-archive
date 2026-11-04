@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-04 | [霓虹黄昏城市街道 FPV 穿梭一镜到底（Seedance 2.5）](entries/2026-11-04/2117544762484162842.md) | 其它 | Seedance 2.5 | [@md_raza3737](https://x.com/md_raza3737/status/2117544762484162842) |
+| 2026-11-04 | [韩国校园便利店：面包触发蓝色超能力（Seedance 2.5，30 秒分镜）](entries/2026-11-04/2117799763450183756.md) | 真人 | Seedance 2.5 | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2117799763450183756) |
+| 2026-11-04 | [TEMPEST & VOID：雷暴浪人对决虚空阿修罗（Midjourney v8.2 角色 + GPT Image 2.5 设定表 + Seedance 2.5 动画）](entries/2026-11-04/2117884530933805225.md) | 其它 | Midjourney v8.2 + GPT Image 2.5 + Seedance 2.5（FramiaPro 平台） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2117884530933805225) |
+| 2026-11-04 | [把自家角色做成泰迪熊玩偶（#るんプロンプト 第244弾）](entries/2026-11-04/2117761242844602433.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2117761242844602433) |
+| 2026-11-04 | [高级感 AI 人像 8 维提示词框架（GPT Image，中文长帖）](entries/2026-11-04/2117508777062584363.md) | 真人 | GPT Image（作者经 Flatkey 平台调用；文中称用 Fable 5.5 打磨提示词） | [@AYi_AInotes](https://x.com/AYi_AInotes/status/2117508777062584363) |
+| 2026-11-04 | [夜巷霓虹下的乳胶兔女郎造型 4 色（Nano Banana Pro，JSON prompt）](entries/2026-11-04/2117802879541268802.md) | 真人 | Nano Banana Pro（AI Studio） | [@alicehan_ai](https://x.com/alicehan_ai/status/2117802879541268802) |
 | 2026-11-03 | [行李转盘上的 Q 版角色（#るんプロンプト 第238弾）](entries/2026-11-03/2116674075816772023.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116674075816772023) |
 | 2026-11-03 | [日式 RPG 魔物图鉴页：把自家角色做成稀有怪物（#るんプロンプト 第241弾）](entries/2026-11-03/2117225212634648950.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2117225212634648950) |
 | 2026-11-03 | [午夜马戏团团长衣装（女/男两版 prompt）](entries/2026-11-03/2116817651603550383.md) | 二次元 | 未注明（日系 AI 插画） | [@AIXyu1v](https://x.com/AIXyu1v/status/2116817651603550383) |
