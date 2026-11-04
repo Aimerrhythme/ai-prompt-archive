@@ -48,6 +48,11 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-04 | [世界都市ランダム衣装（角色参考图 → 随机可爱衣装 + 世界名所背景）](entries/2026-11-04/2117242630157357171.md) | 二次元 | ChatGPT / Grok 等（角色参考图驱动） | [@naanfa257023](https://x.com/naanfa257023/status/2117242630157357171) |
+| 2026-11-04 | [红色连帽衫 + 星星图案过膝袜（衣装 prompt）](entries/2026-11-04/2117571260884676633.md) | 二次元 | 未注明 | [@inmnftrai](https://x.com/inmnftrai/status/2117571260884676633) |
+| 2026-11-04 | [The Shape of Waiting：电梯里的黑色缎面时装大片](entries/2026-11-04/2117607130685698253.md) | 真人 | Gemini Nano Banana Pro | [@SakiH_AI](https://x.com/SakiH_AI/status/2117607130685698253) |
+| 2026-11-04 | [地震防护智能床：30 秒未来感广告短片](entries/2026-11-04/2117663533240340862.md) | 其它 | Google Flow（Omni 1.1 Flash）+ Nano Banana Pro（视频） | [@claire44](https://x.com/claire44/status/2117663533240340862) |
+| 2026-11-04 | [The Little Delivery：30 秒竖屏温情短片](entries/2026-11-04/2117443820287644037.md) | 真人 | Seedance 2.5（视频） | [@AynahhX](https://x.com/AynahhX/status/2117443820287644037) |
 | 2026-11-03 | [行李转盘上的 Q 版角色（#るんプロンプト 第238弾）](entries/2026-11-03/2116674075816772023.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2116674075816772023) |
 | 2026-11-03 | [日式 RPG 魔物图鉴页：把自家角色做成稀有怪物（#るんプロンプト 第241弾）](entries/2026-11-03/2117225212634648950.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2117225212634648950) |
 | 2026-11-03 | [午夜马戏团团长衣装（女/男两版 prompt）](entries/2026-11-03/2116817651603550383.md) | 二次元 | 未注明（日系 AI 插画） | [@AIXyu1v](https://x.com/AIXyu1v/status/2116817651603550383) |
