@@ -48,6 +48,10 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-05 | [【あなたを刺繍で描いたら？】刺绣肖像诊断海报（ChatGPT 图像生成）](entries/2026-11-05/2117808203761369104.md) | 其它 | ChatGPT（图像生成，帖子未注明具体模型版本） | [@archanfel000](https://x.com/archanfel000/status/2117808203761369104) |
+| 2026-11-05 | [糖果色数码迷彩秋季穿搭衣装 prompt（黑川あかね示例）](entries/2026-11-05/2117796407876964666.md) | 二次元 | 未注明 | [@xt9vdi](https://x.com/xt9vdi/status/2117796407876964666) |
+| 2026-11-05 | [DIGITAL RELIC COUTURE：后数字高定服装变装 prompt](entries/2026-11-05/2117807643914117483.md) | 真人 | 未注明 | [@PCasino73066](https://x.com/PCasino73066/status/2117807643914117483) |
+| 2026-11-05 | [意大利海景阳台夏日人像（Nano Banana 2）](entries/2026-11-05/2117897135630983616.md) | 真人 | Nano Banana 2（经 WeryAI 平台） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2117897135630983616) |
 | 2026-11-04 | [霓虹黄昏城市街道 FPV 穿梭一镜到底（Seedance 2.5）](entries/2026-11-04/2117544762484162842.md) | 其它 | Seedance 2.5 | [@md_raza3737](https://x.com/md_raza3737/status/2117544762484162842) |
 | 2026-11-04 | [韩国校园便利店：面包触发蓝色超能力（Seedance 2.5，30 秒分镜）](entries/2026-11-04/2117799763450183756.md) | 真人 | Seedance 2.5 | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2117799763450183756) |
 | 2026-11-04 | [TEMPEST & VOID：雷暴浪人对决虚空阿修罗（Midjourney v8.2 角色 + GPT Image 2.5 设定表 + Seedance 2.5 动画）](entries/2026-11-04/2117884530933805225.md) | 其它 | Midjourney v8.2 + GPT Image 2.5 + Seedance 2.5（FramiaPro 平台） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2117884530933805225) |
