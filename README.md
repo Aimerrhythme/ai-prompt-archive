@@ -48,6 +48,17 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-05 | [「二郎腿战神」：白色改良短旗袍 + 灰丝棚拍人像（中文长 prompt）](entries/2026-11-05/2117885659742618033.md) | 真人 | 未注明 | [@GenRyoma](https://x.com/GenRyoma/status/2117885659742618033) |
+| 2026-11-05 | [韩系清冷奶油白蕾丝吊带近景人像（GPT Image 提示词 45/100）](entries/2026-11-05/2117994338781397496.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2117994338781397496) |
+| 2026-11-05 | [雨夜霓虹小巷透明伞下的背影（GPT / Grok Imagine 通用 prompt）](entries/2026-11-05/2118079838959342021.md) | 其它 | GPT（图像生成）、Grok Imagine（作者称两者均可） | [@Alaryn_Heart](https://x.com/Alaryn_Heart/status/2118079838959342021) |
+| 2026-11-05 | [双眼激光催生水晶结构擎天柱的变身视频（Grok Imagine）](entries/2026-11-05/2117869379568492932.md) | 其它 | Grok Imagine | [@Aiminithoughts](https://x.com/Aiminithoughts/status/2117869379568492932) |
+| 2026-11-05 | [离世小狗化作光之灵归来（Seedance 2.5，30 秒韩影风情感分镜）](entries/2026-11-05/2117812457809023213.md) | 真人 | Seedance 2.5 | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2117812457809023213) |
+| 2026-11-05 | [与粉龙的日常 Ep 09：中世纪面包坊揉面烤面包（Seedance 2.5）](entries/2026-11-05/2118170538539651159.md) | 其它 | Seedance 2.5 | [@AiWithSaira](https://x.com/AiWithSaira/status/2118170538539651159) |
+| 2026-11-05 | [把自家角色做成掌上水晶 Q 版人偶（#るんプロンプト 第245弾）](entries/2026-11-05/2117949993751281785.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2117949993751281785) |
+| 2026-11-05 | [「むふーっ！」鼓腮叉腰得意脸 Q 版（#るんプロンプト 第246弾）](entries/2026-11-05/2118123630173528097.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118123630173528097) |
+| 2026-11-05 | [雪兔哥特军装衣装 prompt（#ヒヨコ服屋，ALT 版）](entries/2026-11-05/2118116090676941248.md) | 二次元 | 未注明（日系 AI 插画） | [@hiyoko86637](https://x.com/hiyoko86637/status/2118116090676941248) |
+| 2026-11-05 | [「俺がプレゼントだ」：缎带缠身把自己当礼物（tag 式 prompt）](entries/2026-11-05/2118209578487947375.md) | 二次元 | NovelAI / TSUBAKI3 / ChatGPT（作者注明） | [@shiyuhu_tadano](https://x.com/shiyuhu_tadano/status/2118209578487947375) |
+| 2026-11-05 | [niji 7 三重 sref 组合：多彩人物与猫插画](entries/2026-11-05/2118282187300549092.md) | 二次元 | Midjourney niji 7（nijijourney） | [@yumesyokunin](https://x.com/yumesyokunin/status/2118282187300549092) |
 | 2026-11-04 | [霓虹黄昏城市街道 FPV 穿梭一镜到底（Seedance 2.5）](entries/2026-11-04/2117544762484162842.md) | 其它 | Seedance 2.5 | [@md_raza3737](https://x.com/md_raza3737/status/2117544762484162842) |
 | 2026-11-04 | [韩国校园便利店：面包触发蓝色超能力（Seedance 2.5，30 秒分镜）](entries/2026-11-04/2117799763450183756.md) | 真人 | Seedance 2.5 | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2117799763450183756) |
 | 2026-11-04 | [TEMPEST & VOID：雷暴浪人对决虚空阿修罗（Midjourney v8.2 角色 + GPT Image 2.5 设定表 + Seedance 2.5 动画）](entries/2026-11-04/2117884530933805225.md) | 其它 | Midjourney v8.2 + GPT Image 2.5 + Seedance 2.5（FramiaPro 平台） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2117884530933805225) |
