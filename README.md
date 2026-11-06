@@ -48,6 +48,16 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-06 | [セーラー服オマージュのデコラコーデ衣装 prompt](entries/2026-11-06/2118236878688407926.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118236878688407926) |
+| 2026-11-06 | [キノコとケープのセーターワンピース衣装 prompt](entries/2026-11-06/2118448275300700628.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118448275300700628) |
+| 2026-11-06 | [「どやぁ〜！」得意脸 Q 版（#るんプロンプト 第247弾）](entries/2026-11-06/2118312380967059899.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118312380967059899) |
+| 2026-11-06 | [赛博精神病边缘的重武装改造（#るんプロンプト 第248弾）](entries/2026-11-06/2118489790589079750.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118489790589079750) |
+| 2026-11-06 | [飞鼠（ももんが）毛绒连体装衣装（#るん衣装プロンプト 第260弾）](entries/2026-11-06/2118659674430210380.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118659674430210380) |
+| 2026-11-06 | [奶油白蕾丝 V 领半身人像（GPT Image 提示词 48/100）](entries/2026-11-06/2118175184276648004.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2118175184276648004) |
+| 2026-11-06 | [单肩缎面托腮近景人像（GPT Image 提示词 49/100）](entries/2026-11-06/2118255485724033500.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2118255485724033500) |
+| 2026-11-06 | [「踢死你」：白色短旗袍 + 灰丝仰拍踢脚构图](entries/2026-11-06/2118549401765654544.md) | 真人 | 未注明 | [@GenRyoma](https://x.com/GenRyoma/status/2118549401765654544) |
+| 2026-11-06 | [韩系 MiniDV 相亲准备 30 秒多分镜（Seedance 2.5）](entries/2026-11-06/2118505329306611799.md) | 真人 | Seedance 2.5 | [@KOF97AI](https://x.com/KOF97AI/status/2118505329306611799) |
+| 2026-11-06 | [Seedance 2.5 角色一致性 JSON 自拍 prompt（完整结构）](entries/2026-11-06/2118089803866534118.md) | 真人 | Seedance 2.5 | [@DavidRunsAds](https://x.com/DavidRunsAds/status/2118089803866534118) |
 | 2026-11-05 | [「二郎腿战神」：白色改良短旗袍 + 灰丝棚拍人像（中文长 prompt）](entries/2026-11-05/2117885659742618033.md) | 真人 | 未注明 | [@GenRyoma](https://x.com/GenRyoma/status/2117885659742618033) |
 | 2026-11-05 | [韩系清冷奶油白蕾丝吊带近景人像（GPT Image 提示词 45/100）](entries/2026-11-05/2117994338781397496.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2117994338781397496) |
 | 2026-11-05 | [雨夜霓虹小巷透明伞下的背影（GPT / Grok Imagine 通用 prompt）](entries/2026-11-05/2118079838959342021.md) | 其它 | GPT（图像生成）、Grok Imagine（作者称两者均可） | [@Alaryn_Heart](https://x.com/Alaryn_Heart/status/2118079838959342021) |
