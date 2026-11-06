@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-06 | [图标风角色：大色块头发少画发丝（Before/After + prompt）](entries/2026-11-06/2118154925654131146.md) | 二次元 | 未注明（作者讨论 GPT / Stable Diffusion 通用） | [@moltikuji](https://x.com/moltikuji/status/2118154925654131146) |
+| 2026-11-06 | [「どやぁ〜！」叉腰得意脸 Q 版（#るんプロンプト 第247弾）](entries/2026-11-06/2118312380967059899.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118312380967059899) |
+| 2026-11-06 | [机械蝶翼哥特礼服衣装（#るん衣装プロンプト 第259弾）](entries/2026-11-06/2118474690738188555.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118474690738188555) |
+| 2026-11-06 | [日本先锋漫画鱼眼近景：橙眼镜银发少女（Midjourney v8.2）](entries/2026-11-06/2118233156457492890.md) | 二次元 | Midjourney v8.2 | [@AIGCxxx](https://x.com/AIGCxxx/status/2118233156457492890) |
+| 2026-11-06 | [红心皇后：巨型扑克牌夹角中的幻想时装人像](entries/2026-11-06/2118463377479762221.md) | 真人 | 未注明（作者示例 Midjourney / DALL-E / Stable Diffusion） | [@Monaqbuv](https://x.com/Monaqbuv/status/2118463377479762221) |
+| 2026-11-06 | [夜店门口直闪社交人像：黑裙模板化参数 prompt（Nano Banana 2）](entries/2026-11-06/2118297282567176331.md) | 真人 | Nano Banana 2（@weryai） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2118297282567176331) |
 | 2026-11-05 | [「二郎腿战神」：白色改良短旗袍 + 灰丝棚拍人像（中文长 prompt）](entries/2026-11-05/2117885659742618033.md) | 真人 | 未注明 | [@GenRyoma](https://x.com/GenRyoma/status/2117885659742618033) |
 | 2026-11-05 | [韩系清冷奶油白蕾丝吊带近景人像（GPT Image 提示词 45/100）](entries/2026-11-05/2117994338781397496.md) | 真人 | GPT Image（作者标注） | [@CryY666666](https://x.com/CryY666666/status/2117994338781397496) |
 | 2026-11-05 | [雨夜霓虹小巷透明伞下的背影（GPT / Grok Imagine 通用 prompt）](entries/2026-11-05/2118079838959342021.md) | 其它 | GPT（图像生成）、Grok Imagine（作者称两者均可） | [@Alaryn_Heart](https://x.com/Alaryn_Heart/status/2118079838959342021) |
