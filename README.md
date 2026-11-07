@@ -48,6 +48,7 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-07 | [未来风超级女英雄衣装（kk 衣装 prompt）](entries/2026-11-07/2118267529332400445.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2118267529332400445) |
 | 2026-11-06 | [セーラー服オマージュのデコラコーデ衣装 prompt](entries/2026-11-06/2118236878688407926.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118236878688407926) |
 | 2026-11-06 | [キノコとケープのセーターワンピース衣装 prompt](entries/2026-11-06/2118448275300700628.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118448275300700628) |
 | 2026-11-06 | [「どやぁ〜！」叉腰得意脸 Q 版（#るんプロンプト 第247弾）](entries/2026-11-06/2118312380967059899.md) | 二次元 | 未注明（角色参考图驱动的通用生图 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2118312380967059899) |
