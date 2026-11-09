@@ -48,6 +48,14 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-09 | [霜晶北境元帅：冰雪军服骑士（#るん衣装プロンプト 第266弾）](entries/2026-11-09/2119746827872297024.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2119746827872297024) |
+| 2026-11-09 | [宽松运动休闲：橄榄绿卫衣 + 象牙阔腿裤 + 棒球帽（衣装 prompt）](entries/2026-11-09/2119746825691492536.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119746825691492536) |
+| 2026-11-09 | [美人鱼剪影 × 黑色圣诞服：坐在金色月牙上抛礼物（#プロンプト配布）](entries/2026-11-09/2119753896457597095.md) | 二次元 | 未注明（日系 AI 插画） | [@Lulu_2nya0](https://x.com/Lulu_2nya0/status/2119753896457597095) |
+| 2026-11-09 | [雷霆皇帝近卫：紫金军服雷电军官（#るん衣装プロンプト 第265弾）](entries/2026-11-09/2119558083743514693.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2119558083743514693) |
+| 2026-11-09 | [BARBED WIRE COUTURE：荆棘铁丝哥特朋克衣装（#るん衣装プロンプト 第264弾）](entries/2026-11-09/2119384440262860980.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2119384440262860980) |
+| 2026-11-09 | [行走的百合花：粉白花瓣高定长裙全身时尚大片](entries/2026-11-09/2119757409870848051.md) | 真人 | 未注明 | [@Monaqbuv](https://x.com/Monaqbuv/status/2119757409870848051) |
+| 2026-11-09 | [深蓝亮片美人鱼礼服：水下高定人像](entries/2026-11-09/2119747833448616178.md) | 真人 | 未注明 | [@Monaqbuv](https://x.com/Monaqbuv/status/2119747833448616178) |
+| 2026-11-09 | [粉金暖琥珀色魔法妖精：编辑大片风人像（4:5）](entries/2026-11-09/2119731739044000139.md) | 真人 | 未注明 | [@Monaqbuv](https://x.com/Monaqbuv/status/2119731739044000139) |
 | 2026-11-07 | [未来风超级女英雄衣装（kk 衣装 prompt）](entries/2026-11-07/2118267529332400445.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2118267529332400445) |
 | 2026-11-06 | [セーラー服オマージュのデコラコーデ衣装 prompt](entries/2026-11-06/2118236878688407926.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118236878688407926) |
 | 2026-11-06 | [キノコとケープのセーターワンピース衣装 prompt](entries/2026-11-06/2118448275300700628.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118448275300700628) |
