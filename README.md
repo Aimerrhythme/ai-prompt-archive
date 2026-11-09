@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-09 | [COMIC IMPACT POSTER GENERATOR：极粗黑线 × 大色块 × 巨型字体的漫画海报（角色图驱动模板）](entries/2026-11-09/2118845592025887177.md) | 二次元 | 未注明（附角色图的通用生图 prompt） | [@AkinoSora_Sky](https://x.com/AkinoSora_Sky/status/2118845592025887177) |
+| 2026-11-09 | [「子猫のおなかでお昼寝」二头身迷你角色枕着小猫午睡（#ゆきプロンプト）](entries/2026-11-09/2118867845354570170.md) | 二次元 | 未注明（附角色图的通用生图 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2118867845354570170) |
+| 2026-11-09 | [雪椿の冬和ロリ：雪中日式庭园的红椿和风洛丽塔（男女两版 #ゆきプロンプト）](entries/2026-11-09/2118954108577370600.md) | 二次元 | 未注明（作者在回复中称交给「チャッピー」即 ChatGPT 生成） | [@AIXyu1v](https://x.com/AIXyu1v/status/2118954108577370600) |
+| 2026-11-09 | [红光侧打的短发 bob 时尚人像（GPT Image 2.6 via Higgsfield）](entries/2026-11-09/2119391748426469769.md) | 真人 | GPT Image 2.6（经 Higgsfield） | [@saniaspeaks_](https://x.com/saniaspeaks_/status/2119391748426469769) |
+| 2026-11-09 | [哥特教堂逆光仰拍：手捧白色小花束的梦幻时装人像（GPT Image 2.5）](entries/2026-11-09/2118670374779162779.md) | 真人 | GPT Image 2.5 | [@harboriis](https://x.com/harboriis/status/2118670374779162779) |
+| 2026-11-09 | [「吻遍山海」双人旅行接吻匹配剪辑导演提示词（Seedance 2.5，15 秒）](entries/2026-11-09/2118685315741470926.md) | 真人 | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168/status/2118685315741470926) |
 | 2026-11-07 | [未来风超级女英雄衣装（kk 衣装 prompt）](entries/2026-11-07/2118267529332400445.md) | 二次元 | 未注明（日系 AI 插画） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2118267529332400445) |
 | 2026-11-06 | [セーラー服オマージュのデコラコーデ衣装 prompt](entries/2026-11-06/2118236878688407926.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118236878688407926) |
 | 2026-11-06 | [キノコとケープのセーターワンピース衣装 prompt](entries/2026-11-06/2118448275300700628.md) | 二次元 | Stable Diffusion / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji•journey（作者注明通用） | [@AliceLavli](https://x.com/AliceLavli/status/2118448275300700628) |
