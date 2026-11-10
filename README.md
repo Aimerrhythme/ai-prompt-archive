@@ -48,6 +48,15 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | [黑灰格纹哥特洛丽塔：背带裙 + 灯笼袖衬衫 + 蕾丝软帽（衣装 prompt）](entries/2026-11-10/2119686426740789531.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119686426740789531) |
+| 2026-11-10 | [初冬毛领大衣 + 格纹裙 + 系带靴：暖系冬装（衣装 prompt）](entries/2026-11-10/2119897823172809024.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119897823172809024) |
+| 2026-11-10 | [月亮秋千：二头身 Q 版推し坐在金色月牙秋千上（#ゆきプロンプト）](entries/2026-11-10/2120101670281736435.md) | 二次元 | 未注明（参考图驱动的通用图像模型 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2120101670281736435) |
+| 2026-11-10 | [16 张参考图合成的复古列车劫案电影海报（MiniMax-H3-Image）](entries/2026-11-10/2119877677641498942.md) | 其它 | MiniMax-H3-Image（作者抢先体验） | [@abulu8](https://x.com/abulu8/status/2119877677641498942) |
+| 2026-11-10 | [「只想安静过个早晨」：睡衣女孩、水獭与黑球头访客的 20 秒悬疑喜剧短片](entries/2026-11-10/2119696395720654912.md) | 真人 | Seedance 2.5（视频） | [@Hassanlaurent](https://x.com/Hassanlaurent/status/2119696395720654912) |
+| 2026-11-10 | [2012 年 iPhone 5 夜街自拍质感：低角度半身人像（自我形象 prompt）](entries/2026-11-10/2119422186440311126.md) | 真人 | Nano Banana 2（经 WeryAI） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2119422186440311126) |
+| 2026-11-10 | [阿尔卑斯阳台冬季男装大片：黑色羊羔毛大衣 + 墨镜（带色值的精细 prompt）](entries/2026-11-10/2119706055076942142.md) | 真人 | Gemini Nano Banana 2.1（Gemini App） | [@pictsbyai](https://x.com/pictsbyai/status/2119706055076942142) |
+| 2026-11-10 | [2005 年廉价摄像机偷拍感：参考角色在街头做怪事（found footage 风）](entries/2026-11-10/2119844038228541743.md) | 其它 | ChatGPT 图像生成（作者推荐） | [@edizkan_](https://x.com/edizkan_/status/2119844038228541743) |
+| 2026-11-10 | [日内瓦湖木质快艇上的老钱风夏日人像（含 Negative Prompt）](entries/2026-11-10/2119512782752354411.md) | 真人 | 未注明 | [@antrospike](https://x.com/antrospike/status/2119512782752354411) |
 | 2026-11-09 | [霜晶北境元帅：冰雪军服骑士（#るん衣装プロンプト 第266弾）](entries/2026-11-09/2119746827872297024.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2119746827872297024) |
 | 2026-11-09 | [宽松运动休闲：橄榄绿卫衣 + 象牙阔腿裤 + 棒球帽（衣装 prompt）](entries/2026-11-09/2119746825691492536.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119746825691492536) |
 | 2026-11-09 | [美人鱼剪影 × 黑色圣诞服：坐在金色月牙上抛礼物（#プロンプト配布）](entries/2026-11-09/2119753896457597095.md) | 二次元 | 未注明（日系 AI 插画） | [@Lulu_2nya0](https://x.com/Lulu_2nya0/status/2119753896457597095) |
