@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | [和纸拼贴风画风转换：把插画/漫画改成手工和纸 collage（意图拙朴版）](entries/2026-11-10/2119717788197716352.md) | 二次元 | GPT Image 等支持参考图的画风转换模型（作者提到 GPT-Image） | [@AI_Illust_000](https://x.com/AI_Illust_000/status/2119717788197716352) |
+| 2026-11-10 | [霓虹灯管线稿画风转换模板（7 项分段，可改写）](entries/2026-11-10/2119800248893861947.md) | 二次元 | GPT-Image / Muse（作者注明） | [@AI_Illust_000](https://x.com/AI_Illust_000/status/2119800248893861947) |
+| 2026-11-10 | [深红×漆黑哥特玫瑰女仆 / 管家（男女两版 #ゆきプロンプト）](entries/2026-11-10/2119598979910676570.md) | 二次元 | 未注明（日系 AI 插画通用 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2119598979910676570) |
+| 2026-11-10 | [韩系咖啡馆早餐人像：奶油针织开衫 + 黑色大蝴蝶结半扎发（参考图换脸型 prompt）](entries/2026-11-10/2119663410174644671.md) | 真人 | GPT Image（ChatGPT 内） | [@Lianaalane](https://x.com/Lianaalane/status/2119663410174644671) |
+| 2026-11-10 | [全红单色影棚的奢牌时装大片：红西装坐几何台座（参考图保脸 prompt）](entries/2026-11-10/2119445727273525375.md) | 真人 | GPT Image 2.5（ChatGPT 内） | [@mehvishs25](https://x.com/mehvishs25/status/2119445727273525375) |
+| 2026-11-10 | [刺绣风冬夜教堂河景：窗灯渐亮的织物质感动画（Kling 4.0 图生视频）](entries/2026-11-10/2119868184341991472.md) | 其它 | Kling 4.0（视频）+ GPT Image 2.5 Sunburst（首帧图），经 ImagineArt | [@churvikv](https://x.com/churvikv/status/2119868184341991472) |
 | 2026-11-09 | [霜晶北境元帅：冰雪军服骑士（#るん衣装プロンプト 第266弾）](entries/2026-11-09/2119746827872297024.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2119746827872297024) |
 | 2026-11-09 | [宽松运动休闲：橄榄绿卫衣 + 象牙阔腿裤 + 棒球帽（衣装 prompt）](entries/2026-11-09/2119746825691492536.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119746825691492536) |
 | 2026-11-09 | [美人鱼剪影 × 黑色圣诞服：坐在金色月牙上抛礼物（#プロンプト配布）](entries/2026-11-09/2119753896457597095.md) | 二次元 | 未注明（日系 AI 插画） | [@Lulu_2nya0](https://x.com/Lulu_2nya0/status/2119753896457597095) |
