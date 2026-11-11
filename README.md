@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-11 | [堕落小红帽 × 哥特狼之女王：换装 prompt（#るん衣装プロンプト 第269弹）](entries/2026-11-11/2120282854898749655.md) | 二次元 | 未注明（参考角色图驱动的通用图像模型 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120282854898749655) |
+| 2026-11-11 | [酒红丝绒连衣裙 + 黑蕾丝披肩 + 玛丽珍鞋：衣装标签 prompt（#双人プロンプト）](entries/2026-11-11/2120113960066404666.md) | 二次元 | 未注明（标签式 prompt，适合 SD 系 / NovelAI 类） | [@inmnftrai](https://x.com/inmnftrai/status/2120113960066404666) |
+| 2026-11-11 | [旧中式院门前的复古胶片人像：短发、亚麻吊带裙、「春風送暖」（含 Negative prompt）](entries/2026-11-11/2119982878788337883.md) | 真人 | 未注明 | [@Tanvir48992](https://x.com/Tanvir48992/status/2119982878788337883) |
+| 2026-11-11 | [黑白斗牛士风时装大片：刺绣短夹克女性肖像（Midjourney 参数写法）](entries/2026-11-11/2119889461571879014.md) | 真人 | 未注明（prompt 末尾带 –ar 2:3 –stylize 250 –v 6，Midjourney 参数写法） | [@BubbaArtwork](https://x.com/BubbaArtwork/status/2119889461571879014) |
+| 2026-11-11 | [黑白电影感人像，唯一彩色是 AI 为你挑的帽子（上传照片模板）](entries/2026-11-11/2119923941623939392.md) | 真人 | 未注明（通用图像模型，需上传本人照片） | [@KSJ_Kreative](https://x.com/KSJ_Kreative/status/2119923941623939392) |
+| 2026-11-11 | [金色斜阳下的奶油针织 + 驼色大衣近景人像（GPT Image 2.6，参考图驱动）](entries/2026-11-11/2119787453926215958.md) | 真人 | GPT Image 2.6（ChatGPT） | [@auqibhabib](https://x.com/auqibhabib/status/2119787453926215958) |
 | 2026-11-10 | [黑灰格纹哥特洛丽塔：背带裙 + 灯笼袖衬衫 + 蕾丝软帽（衣装 prompt）](entries/2026-11-10/2119686426740789531.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119686426740789531) |
 | 2026-11-10 | [初冬毛领大衣 + 格纹裙 + 系带靴：暖系冬装（衣装 prompt）](entries/2026-11-10/2119897823172809024.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119897823172809024) |
 | 2026-11-10 | [月亮秋千：二头身 Q 版推し坐在金色月牙秋千上（#ゆきプロンプト）](entries/2026-11-10/2120101670281736435.md) | 二次元 | 未注明（参考图驱动的通用图像模型 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2120101670281736435) |
