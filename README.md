@@ -48,6 +48,17 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-11 | [发条爱丽丝：破碎仙境的机械战斗女王（#るん衣装プロンプト 第268弾）](entries/2026-11-11/2120109210692464968.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120109210692464968) |
+| 2026-11-11 | [冰晶雪豹：中华哥特幻想衣装 + 雪豹耳尾（#るん衣装プロンプト 第270弾）](entries/2026-11-11/2120471616975241378.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120471616975241378) |
+| 2026-11-11 | [藏青底白菊纹和服 + 酒红太鼓结腰带（衣装 prompt）](entries/2026-11-11/2120471609882345723.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2120471609882345723) |
+| 2026-11-11 | [骑白兔散步：二头身 Q 版推し坐在大白兔背上（#ゆきプロンプト）](entries/2026-11-11/2120411224882192837.md) | 二次元 | 未注明（参考图驱动的通用图像模型 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2120411224882192837) |
+| 2026-11-11 | [屋顶下棋的翡翠绿毛草大衣男：棋盘贴地超广角时尚大片（四模型同 prompt 对比）](entries/2026-11-11/2120198834508955990.md) | 真人 | Seedream 5.5 / Magnific One / GPT Image 2.6 / Nano Banana 2.1（作者在 Magnific 内测试，四图依次对应） | [@MayorKingAI](https://x.com/MayorKingAI/status/2120198834508955990) |
+| 2026-11-11 | [多洛米蒂山庄露台：奶油羊绒斗篷毛衣 + 热可可的晨间人像（含 Negative Prompt）](entries/2026-11-11/2120418751606870252.md) | 真人 | 未注明 | [@antrospike](https://x.com/antrospike/status/2120418751606870252) |
+| 2026-11-11 | [「Morning called. I picked up.」：猩红底极简漫画海报（prompt 在 ALT）](entries/2026-11-11/2120418134998081565.md) | 其它 | 未注明 | [@abulu8](https://x.com/abulu8/status/2120418134998081565) |
+| 2026-11-11 | [校园街拍：棕色皮夹克眼镜女生边走边拂面（图生视频 prompt）](entries/2026-11-11/2119811146157085054.md) | 真人 | Seedance 2.5（视频，图生视频） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2119811146157085054) |
+| 2026-11-11 | [雪夜屋顶逃亡：丧尸潮惊悚短片的 8 格分镜表 prompt](entries/2026-11-11/2120157608044646881.md) | 真人 | Seedance 2.5（视频）；分镜表图像生成模型未注明 | [@sophiawithai](https://x.com/sophiawithai/status/2120157608044646881) |
+| 2026-11-11 | [魔法花园里的少女与白色幼龙：喂水果的 10 秒奇幻短片](entries/2026-11-11/2120341378316304453.md) | 真人 | Seedance 2.5（视频） | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2120341378316304453) |
+| 2026-11-11 | [灯笼河畔的猫之灵：30 秒日式催泪奇幻短片（分时段脚本）](entries/2026-11-11/2120331928264188026.md) | 真人 | Seedance 2.5（视频） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2120331928264188026) |
 | 2026-11-10 | [黑灰格纹哥特洛丽塔：背带裙 + 灯笼袖衬衫 + 蕾丝软帽（衣装 prompt）](entries/2026-11-10/2119686426740789531.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119686426740789531) |
 | 2026-11-10 | [初冬毛领大衣 + 格纹裙 + 系带靴：暖系冬装（衣装 prompt）](entries/2026-11-10/2119897823172809024.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2119897823172809024) |
 | 2026-11-10 | [月亮秋千：二头身 Q 版推し坐在金色月牙秋千上（#ゆきプロンプト）](entries/2026-11-10/2120101670281736435.md) | 二次元 | 未注明（参考图驱动的通用图像模型 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2120101670281736435) |
