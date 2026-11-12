@@ -155,3 +155,9 @@ docs/entry-convention.md          字段与模板
 | 2026-10-28 | [日式动画电影风：新年家宴上的婆媳冲突](entries/2026-10-28/2114709909178810799.md) | 二次元 | Nano Banana 2.1 vs GPT Image 2.5（左 / 右） | [@ViralOps_](https://x.com/ViralOps_/status/2114709909178810799) |
 | 2026-10-28 | [万圣节电影级场景 prompt 合集（7 条）](entries/2026-10-28/2114913715355254786.md) | 其它 | Nano Banana 2.1、GPT Image 2.5 Sunburst；终章另有 Nano Banana Pro、Seedream 5.0 Pro | [@DJpowers69](https://x.com/DJpowers69/status/2114913715355254786) |
 | 2026-10-28 | [用 Seedance 2.5 出静帧：网红风写实人像](entries/2026-10-28/2115216612030865415.md) | 真人 | Seedance 2.5（视频取帧） vs Nano Banana 2.1 | [@purrdoom](https://x.com/purrdoom/status/2115216612030865415) |
+| 2026-11-12 | [江南庭院窗边的烟蓝丝裙女子：东方电影感写实人像](entries/2026-11-12/2120136459407823308.md) | 真人 | 未注明 | [@ThiThaoTri17219](https://x.com/ThiThaoTri17219/status/2120136459407823308) |
+| 2026-11-12 | [Art Deco 金色扇形背景 × 黑金串珠礼服 × 复古手推波纹发型人像](entries/2026-11-12/2120381001872429454.md) | 真人 | 未注明 | [@antrospike](https://x.com/antrospike/status/2120381001872429454) |
+| 2026-11-12 | [温室里照料兰花的老奶奶：一句话写实氛围 prompt（#PromptShare）](entries/2026-11-12/2120440402792890463.md) | 真人 | 未注明 | [@BeanieBlossom](https://x.com/BeanieBlossom/status/2120440402792890463) |
+| 2026-11-12 | [Q 版角色变身蛋糕翻糖人偶：迷你甜点台（#るんプロンプト 第259弾）](entries/2026-11-12/2120486698111172918.md) | 二次元 | 未注明（角色参考图驱动的通用图像模型 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120486698111172918) |
+| 2026-11-12 | [把自家角色封进四季宝石糖：和风高级糖果目录页（日文 prompt）](entries/2026-11-12/2120430169253175708.md) | 其它 | 未注明（角色参考图驱动的通用图像模型 prompt） | [@irohachang77](https://x.com/irohachang77/status/2120430169253175708) |
+| 2026-11-12 | [坠毁飞船与未知星球：30 秒科幻恐怖预告片分时段脚本（Seedance 2.5）](entries/2026-11-12/2120230038041673811.md) | 其它 | Seedance 2.5（视频，Dreamina） | [@CharaspowerAI](https://x.com/CharaspowerAI/status/2120230038041673811) |
