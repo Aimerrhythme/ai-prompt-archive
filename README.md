@@ -48,6 +48,15 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-12 | [藏青背带裙 + 酒红格纹贝雷帽：复古学院风衣装 prompt](entries/2026-11-12/2120773588823191659.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2120773588823191659) |
+| 2026-11-12 | [Sorolla 光影 × 摩天楼错视涂鸦：屋顶背影角色与巨型壁画（角色设定图驱动）](entries/2026-11-12/2120714388369785306.md) | 二次元 | 未注明（末尾带 `--ar 9:21`） | [@Le_Tavernicole](https://x.com/Le_Tavernicole/status/2120714388369785306) |
+| 2026-11-12 | [守护兽融合合神诊断：人物 + 专属守护兽铠甲化的 3:4 设定海报](entries/2026-11-12/2120729652633436603.md) | 二次元 | 未注明（主帖标签 #ChatGPT） | [@archanfel000](https://x.com/archanfel000/status/2120729652633436603) |
+| 2026-11-12 | [韩式面包店里的搞笑功夫对打：10 秒图生视频 prompt](entries/2026-11-12/2120737283729166500.md) | 真人 | Seedance 2.5（视频，图生视频） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2120737283729166500) |
+| 2026-11-12 | [雨夜捡到小橘猫：30 秒韩影风治愈动物短片（分时段脚本）](entries/2026-11-12/2120692554521772051.md) | 真人 | Seedance 2.5（视频） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2120692554521772051) |
+| 2026-11-12 | [「Before the Bell」：更衣室缠拳带 + 镜面反射的拳击电影剧照（三模型同 prompt 对比）](entries/2026-11-12/2120554917400396139.md) | 真人 | Seedream 5.5 / Nano Banana 2.1 / GPT Image 2.6（作者同 prompt 对比，合成一张图） | [@maxescu](https://x.com/maxescu/status/2120554917400396139) |
+| 2026-11-12 | [黑玫瑰主题：Kodak Portra 胶片质感的蜂蜜金发女子全身人像](entries/2026-11-12/2120509350351647188.md) | 真人 | Nano Banana 2（作者在 @weryai 上生成） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2120509350351647188) |
+| 2026-11-12 | [雪原黑大衣男士：北欧风奢侈冬装广告人像（含色值与相机参数）](entries/2026-11-12/2120793218652742104.md) | 真人 | Nano Banana 2.1（Gemini App） | [@pictsbyai](https://x.com/pictsbyai/status/2120793218652742104) |
+| 2026-11-12 | [江南春日园林：临水古亭旁的汉服女子（中文古风写实 prompt）](entries/2026-11-12/2120758493695344804.md) | 真人 | GPT Image 2.6（作者写「gpt生图」「升级到image2.6后」） | [@krienknight](https://x.com/krienknight/status/2120758493695344804) |
 | 2026-11-11 | [发条爱丽丝：破碎仙境的机械战斗女王（#るん衣装プロンプト 第268弾）](entries/2026-11-11/2120109210692464968.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120109210692464968) |
 | 2026-11-11 | [冰晶雪豹：中华哥特幻想衣装 + 雪豹耳尾（#るん衣装プロンプト 第270弾）](entries/2026-11-11/2120471616975241378.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2120471616975241378) |
 | 2026-11-11 | [藏青底白菊纹和服 + 酒红太鼓结腰带（衣装 prompt）](entries/2026-11-11/2120471609882345723.md) | 二次元 | 未注明（通用；作者写可用于 SD / SeaArt / PixAI / ChatGPT / Gemini / Grok / Midjourney / niji） | [@AliceLavli](https://x.com/AliceLavli/status/2120471609882345723) |
