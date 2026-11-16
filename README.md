@@ -48,6 +48,16 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-16 | [西域王子现身、小山羊偷咬地毯流苏：西域古装浪漫喜剧电影照（中文 prompt）](entries/2026-11-16/2122123254534140192.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2122123254534140192) |
+| 2026-11-16 | [巨龙松动的牙：农场少女 Daisy 用绳子 + 苹果拔牙的 30 秒奇幻喜剧分时段脚本](entries/2026-11-16/2122145632093954129.md) | 真人 | Seedance 2.5（视频） | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2122145632093954129) |
+| 2026-11-16 | [日式老街上红毛衣女子与光头大叔的手机手持街舞视频](entries/2026-11-16/2121903674112778264.md) | 真人 | Seedance 2.5（视频） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2121903674112778264) |
+| 2026-11-16 | [电梯里的 30 秒功夫对打：6 段式中式动作片分镜 prompt](entries/2026-11-16/2121583698747548118.md) | 真人 | Seedance 2.5（视频） | [@HeyAirahAi](https://x.com/HeyAirahAi/status/2121583698747548118) |
+| 2026-11-16 | [Paint Explosion：一笔颜料炸出整个世界（同一 prompt 跑 Seedance 2.5 Flash / Seedance 2.0 / Wan 3.0）](entries/2026-11-16/2121887196063940951.md) | 其它 | Seedance 2.5 Flash、Seedance 2.0、Wan 3.0（主帖三段视频对比；作者另在回复区贴了 Kling 4.0、Grok Imagine、Minimax H3 的结果） | [@Dheepanratnam](https://x.com/Dheepanratnam/status/2121887196063940951) |
+| 2026-11-16 | [百叶窗光影下的黑色西装高级时装肖像](entries/2026-11-16/2121800372763218280.md) | 真人 | Nano Banana 2（WeryAI，作者标注） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2121800372763218280) |
+| 2026-11-16 | [Midjourney v8.2 多 sref 混合「cinematic lights」名人肖像（20 张）](entries/2026-11-16/2121528705885569230.md) | 真人 | Midjourney v8.2 | [@michaelrabone](https://x.com/michaelrabone/status/2121528705885569230) |
+| 2026-11-16 | [精灵植物刺绣古典洛丽塔长裙（ALT 衣装 prompt + 配色方案）](entries/2026-11-16/2121398455872655577.md) | 二次元 | 未注明 | [@hiyoko86637](https://x.com/hiyoko86637/status/2121398455872655577) |
+| 2026-11-16 | [螺钿夜光和风哥特礼服（#るん衣装プロンプト 第277弾）](entries/2026-11-16/2121732407242150331.md) | 二次元 | 未注明（角色参考图驱动的通用衣装 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2121732407242150331) |
+| 2026-11-16 | [《绿野仙踪》多萝西 × 地雷系亚文化衣装 prompt](entries/2026-11-16/2121807906605838359.md) | 二次元 | 未注明 | [@yana_al_](https://x.com/yana_al_/status/2121807906605838359) |
 | 2026-11-13 | [马奶酒碰杯飞溅：蒙古草原王室婚宴喜剧电影照（中文古装写实 prompt）](entries/2026-11-13/2120889548376838207.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2120889548376838207) |
 | 2026-11-13 | [丝路商都并肩同行：西域武侠电影照（含中文负面提示词）](entries/2026-11-13/2121051944605352212.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2121051944605352212) |
 | 2026-11-13 | [《Life With Dragon》Ep 17：木桶漂流 + 粉白幼龙追逐的 25 秒奇幻分时段脚本](entries/2026-11-13/2121079227441410210.md) | 真人 | Seedance 2.5（视频） | [@AiWithSaira](https://x.com/AiWithSaira/status/2121079227441410210) |
