@@ -48,6 +48,17 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-17 | [学校路口的交通协管员 Barb 与网红司机：水粉 2.5D 卡通物理喜剧（视频 + MJ 角色/场景 + GPT 设定稿全套 prompt）](entries/2026-11-17/2122616282982011020.md) | 其它 | Seedance 2.5（视频）+ Midjourney v8.2 + GPT Image 2.6（作者注明在 @higgsfield 制作） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2122616282982011020) |
+| 2026-11-17 | [高层公寓落地窗边的奶油白真丝吊带长裙人像（GPT Image 中文结构化 prompt 62/100）](entries/2026-11-17/2122583417875521552.md) | 真人 | GPT Image（作者写「Gpt image」，未注明版本） | [@CryY666666](https://x.com/CryY666666/status/2122583417875521552) |
+| 2026-11-17 | [变身哥特教堂彩绘玻璃窗：「PHOTOGRAPHIC STAINED GLASS ARTWORK」图生图 prompt（7 段 ALT）](entries/2026-11-17/2122525665924915523.md) | 二次元 | 未注明（图生图，需上传原图） | [@aphpasta](https://x.com/aphpasta/status/2122525665924915523) |
+| 2026-11-17 | [暖色卡通风 sref 35289943：会长眼睛的咖啡杯式奇趣插画](entries/2026-11-17/2122419435323486390.md) | 其它 | Midjourney 7 | [@CarolynIott](https://x.com/CarolynIott/status/2122419435323486390) |
+| 2026-11-17 | [守岸人：海上圣域灵蝶礼装的东方幻想 3D CG 角色海报（中文长 prompt）](entries/2026-11-17/2122360041919685073.md) | 二次元 | GPT Image 2.5 | [@liyue_ai](https://x.com/liyue_ai/status/2122360041919685073) |
+| 2026-11-17 | [夜间韩国小吃街动作喜剧：黑衣女子突袭栗色飞行夹克男的 9:16 视频 prompt](entries/2026-11-17/2122331971112292584.md) | 真人 | Seedance 2.5（视频） | [@RafeAiTech](https://x.com/RafeAiTech/status/2122331971112292584) |
+| 2026-11-17 | [毛茸茸公鸡怪兽（Midjourney v8.2 + sref 3486792880）](entries/2026-11-17/2122298644422660096.md) | 其它 | Midjourney v8.2 | [@michaelrabone](https://x.com/michaelrabone/status/2122298644422660096) |
+| 2026-11-17 | [日系赛璐璐城市天台：黑长发成年少女 + 蓝紫天空（中文短 prompt）](entries/2026-11-17/2122247884477456879.md) | 二次元 | 未注明 | [@CryY666666](https://x.com/CryY666666/status/2122247884477456879) |
+| 2026-11-17 | [「五星级通缉犯」：3D CGI 喜剧惊悚续接镜头，实验室 + 新闻闪回 20 秒分镜脚本](entries/2026-11-17/2122231548866900071.md) | 其它 | Seedance 2.5 + GPT Image 2.5（视频；作者注明在 @sumistudio_ai 制作） | [@_YasirNFT](https://x.com/_YasirNFT/status/2122231548866900071) |
+| 2026-11-17 | [夢職人さん风格双 sref 混合的 niji 7 角色插画](entries/2026-11-17/2122063187600347609.md) | 二次元 | Niji 7（nijijourney） | [@ChocolaTaiga](https://x.com/ChocolaTaiga/status/2122063187600347609) |
+| 2026-11-17 | [日本一日游 POV 旅行蒙太奇：站台、金色草地、拉面与好奇小鹿（15 秒 9:16）](entries/2026-11-17/2121794817835282805.md) | 真人 | Seedance 2.5（视频） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2121794817835282805) |
 | 2026-11-16 | [西域王子现身、小山羊偷咬地毯流苏：西域古装浪漫喜剧电影照（中文 prompt）](entries/2026-11-16/2122123254534140192.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2122123254534140192) |
 | 2026-11-16 | [巨龙松动的牙：农场少女 Daisy 用绳子 + 苹果拔牙的 30 秒奇幻喜剧分时段脚本](entries/2026-11-16/2122145632093954129.md) | 真人 | Seedance 2.5（视频） | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2122145632093954129) |
 | 2026-11-16 | [日式老街上红毛衣女子与光头大叔的手机手持街舞视频](entries/2026-11-16/2121903674112778264.md) | 真人 | Seedance 2.5（视频） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2121903674112778264) |
