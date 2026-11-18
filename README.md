@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-18 | [地铁三部曲：90 年代车厢、早高峰站台长曝光、俯拍扶梯红大衣（参考图锁脸 · Nano Banana 2.1）](entries/2026-11-18/2122778420593500452.md) | 真人 | Nano Banana 2.1（作者原文写「Nano model Banana 2.1」） | [@Faeiz4Ai](https://x.com/Faeiz4Ai/status/2122778420593500452) |
+| 2026-11-18 | [乡间土路旧皮卡旁的牛仔夹克女生：35mm 胶片独立电影感时装照（三模型同 prompt 对比）](entries/2026-11-18/2122667263375425682.md) | 真人 | MiniMax H3 image vs Seedream 5.5 vs GPT image 2.6（三图对比，作者未逐图标注对应模型，推测按标题顺序） | [@saniaspeaks_](https://x.com/saniaspeaks_/status/2122667263375425682) |
+| 2026-11-18 | [「CHROMATIC LIQUID POSTER GENERATOR」：上传角色图，头发与衣装溶成发光马布尔流体的黑底海报生成器](entries/2026-11-18/2122592872876699658.md) | 二次元 | 未注明（图生图，需附角色图 1 张） | [@AkinoSora_Sky](https://x.com/AkinoSora_Sky/status/2122592872876699658) |
+| 2026-11-18 | [「灯光人体彩绘」：投影光绘在成年女性肤色连体舞衣上的当代艺术展现场照（框架 + 实战两段 prompt）](entries/2026-11-18/2122510035301380604.md) | 真人 | GPT 生图（作者标签 #GPT #image2，未注明具体版本） | [@huahuansfw1](https://x.com/huahuansfw1/status/2122510035301380604) |
+| 2026-11-18 | [彼岸花田的漆黑和装：夕阳下的「彼岸花の少女」与「彼岸花の青年」（动漫插画 prompt 两份）](entries/2026-11-18/2122494945110204735.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2122494945110204735) |
+| 2026-11-18 | [相扑冠军 vs 咏春拳师（帖题「Sumo Champion Vs IP Man」）：相扑土俵内的 25 秒卡通渲染 3D 动画对打（GPT Image 设定稿 + Seedance 分镜 prompt）](entries/2026-11-18/2122367147515289658.md) | 二次元 | Seedance 2.5（视频）+ GPT Image 2.6（角色设定稿），作者注明在 Lovart_ai 制作 | [@ShamsAmin56](https://x.com/ShamsAmin56/status/2122367147515289658) |
 | 2026-11-17 | [学校路口的交通协管员 Barb 与网红司机：水粉 2.5D 卡通物理喜剧（视频 + MJ 角色/场景 + GPT 设定稿全套 prompt）](entries/2026-11-17/2122616282982011020.md) | 其它 | Seedance 2.5（视频）+ Midjourney v8.2 + GPT Image 2.6（作者注明在 @higgsfield 制作） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2122616282982011020) |
 | 2026-11-17 | [高层公寓落地窗边的奶油白真丝吊带长裙人像（GPT Image 中文结构化 prompt 62/100）](entries/2026-11-17/2122583417875521552.md) | 真人 | GPT Image（作者写「Gpt image」，未注明版本） | [@CryY666666](https://x.com/CryY666666/status/2122583417875521552) |
 | 2026-11-17 | [变身哥特教堂彩绘玻璃窗：「PHOTOGRAPHIC STAINED GLASS ARTWORK」图生图 prompt（7 段 ALT）](entries/2026-11-17/2122525665924915523.md) | 二次元 | 未注明（图生图，需上传原图） | [@aphpasta](https://x.com/aphpasta/status/2122525665924915523) |
