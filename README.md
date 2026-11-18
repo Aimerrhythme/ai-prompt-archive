@@ -48,6 +48,18 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-18 | [残破海岸的黑暗奇幻对决：黑斗篷女剑士 vs 肋骨燃烧的骷髅怨灵（4 镜头约 50 秒视频分镜）](entries/2026-11-18/2122916879824306422.md) | 真人 | Fable 5.2 + Seedance 2.5（作者标注） | [@Viniai_](https://x.com/Viniai_/status/2122916879824306422) |
+| 2026-11-18 | [雨中欧洲街头的魔法面包：路人女子隔空送面包给小女孩、小女孩再分给小猫（30 秒 6 场景）](entries/2026-11-18/2122690110575779999.md) | 真人 | Seedance 2.5（作者标注） | [@HeyAirahAi](https://x.com/HeyAirahAi/status/2122690110575779999) |
+| 2026-11-18 | [皇家蓝蝴蝶刺绣高定礼服：参考图人物的奢华时尚大片肖像](entries/2026-11-18/2122970980393889977.md) | 真人 | GPT Image 2.6（作者标注） | [@claire44](https://x.com/claire44/status/2122970980393889977) |
+| 2026-11-18 | [黑白人像 × 超大金框圆墨镜：镜片里映出彩色夕阳海景的二重曝光（日文结构化 prompt）](entries/2026-11-18/2122889771546759633.md) | 真人 | 未注明（参考图驱动的通用 prompt） | [@rin_ai_daily](https://x.com/rin_ai_daily/status/2122889771546759633) |
+| 2026-11-18 | [同一张脸的三种手绘：厚涂油画 / 刮刀丙烯抽象 / 古典写实油画肖像](entries/2026-11-18/2122957339712245849.md) | 真人 | ChatGPT（作者在回复中注明） | [@aiwithleo1](https://x.com/aiwithleo1/status/2122957339712245849) |
+| 2026-11-18 | [肉球猫猫麻薯：把角色变成掌心大小、举起肉垫的 Q 版麻薯小生物（#るんプロンプト 第270弾）](entries/2026-11-18/2122472283851702400.md) | 二次元 | 未注明（角色参考图驱动的通用 prompt） | [@ENJU1123PIPI](https://x.com/ENJU1123PIPI/status/2122472283851702400) |
+| 2026-11-18 | [「头部动漫 + 身体实写」混合渲染风格 prompt（权重括号写法）](entries/2026-11-18/2122444599549383127.md) | 二次元 | 未注明 | [@NanameNanameumh](https://x.com/NanameNanameumh/status/2122444599549383127) |
+| 2026-11-18 | [温柔的光头兽人巨人背着整座古代茶馆走过山谷村口牌楼（中文情境图 prompt）](entries/2026-11-18/2122697245879611828.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2122697245879611828) |
+| 2026-11-18 | [古代西域王宫藏书阁：男侠、女子与西域公主共研星象古卷（中文情境图 prompt）](entries/2026-11-18/2122563818924675127.md) | 真人 | 未注明（帖内只写「情境圖片提示詞」；成片为视频） | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2122563818924675127) |
+| 2026-11-18 | [铜锣湾叮叮车街头纪实：Midjourney V8.2 多 sref 港风人像（The Weeknd - Hong Kong 主题）](entries/2026-11-18/2122967510211498416.md) | 真人 | Midjourney V8.2（作者标注） | [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS/status/2122967510211498416) |
+| 2026-11-18 | [角色「自我复制」概念 VFX：给参考角色生成动态分身变体（Prompt Share）](entries/2026-11-18/2122397827934626079.md) | 其它 | 未注明 | [@edizkan_](https://x.com/edizkan_/status/2122397827934626079) |
+| 2026-11-18 | [和柄 × 皮革：黑皮机车夹克 + 和服风叠穿上衣 + 袴风阔腿裤的和洋折衷衣装 prompt](entries/2026-11-18/2122537340350668857.md) | 真人 | 未注明（衣装 prompt） | [@FKT_AIBOX](https://x.com/FKT_AIBOX/status/2122537340350668857) |
 | 2026-11-17 | [学校路口的交通协管员 Barb 与网红司机：水粉 2.5D 卡通物理喜剧（视频 + MJ 角色/场景 + GPT 设定稿全套 prompt）](entries/2026-11-17/2122616282982011020.md) | 其它 | Seedance 2.5（视频）+ Midjourney v8.2 + GPT Image 2.6（作者注明在 @higgsfield 制作） | [@itsPixieVerse](https://x.com/itsPixieVerse/status/2122616282982011020) |
 | 2026-11-17 | [高层公寓落地窗边的奶油白真丝吊带长裙人像（GPT Image 中文结构化 prompt 62/100）](entries/2026-11-17/2122583417875521552.md) | 真人 | GPT Image（作者写「Gpt image」，未注明版本） | [@CryY666666](https://x.com/CryY666666/status/2122583417875521552) |
 | 2026-11-17 | [变身哥特教堂彩绘玻璃窗：「PHOTOGRAPHIC STAINED GLASS ARTWORK」图生图 prompt（7 段 ALT）](entries/2026-11-17/2122525665924915523.md) | 二次元 | 未注明（图生图，需上传原图） | [@aphpasta](https://x.com/aphpasta/status/2122525665924915523) |
