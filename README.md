@@ -48,6 +48,18 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-19 | [朝鲜王朝韩屋里的木剑对决：倔强少女挑战书生、打成平手后相视而笑（30 秒 6 场景浪漫喜剧）](entries/2026-11-19/2123084351533699466.md) | 真人 | Seedance 2.5（作者标注） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2123084351533699466) |
+| 2026-11-19 | [三层商场中庭的怪兽乱入：踩粉色滑板的浪人武士独战白色生化巨兽（30 秒逐秒分镜，多参考图写法）](entries/2026-11-19/2123264933005779284.md) | 真人 | Seedance 2.5（作者标注，经 Framia 生成） | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2123264933005779284) |
+| 2026-11-19 | [手机前置一镜到底自拍特写：冰蓝瞳孔欧洲女子的松弛呼吸感 vlog（15 秒导演式中文 prompt）](entries/2026-11-19/2123016617835532705.md) | 真人 | Seedance 2.5（作者标注） | [@johnAGI168](https://x.com/johnAGI168/status/2123016617835532705) |
+| 2026-11-19 | [皮克斯风 3D 喜剧：孕妈翻衣柜换上孕妇背带裤、丈夫进门拥抱（单段 prompt）](entries/2026-11-19/2123187998040944767.md) | 其它 | Seedance 2.5（作者标注） | [@sohrabonfire412](https://x.com/sohrabonfire412/status/2123187998040944767) |
+| 2026-11-19 | [一键变 GTA VI 宣传画角色：男变 Jason Duval、女变 Lucia Caminos（参考图驱动）](entries/2026-11-19/2123023416475472235.md) | 真人 | 未注明（作者在回复中建议用 ChatGPT 等模型） | [@antrospike](https://x.com/antrospike/status/2123023416475472235) |
+| 2026-11-19 | [燃烧的黑桃 A：透过纸牌烧穿的黑桃孔洞看见的时尚大片肖像](entries/2026-11-19/2123272555121537414.md) | 真人 | Nano Banana 2（作者标注，经 WeryAI） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2123272555121537414) |
+| 2026-11-19 | [伦敦 Camden 朋克街角的街拍人像：Midjourney V8.2 + sref + profile 写法](entries/2026-11-19/2123081613324243075.md) | 真人 | Midjourney V8.2（作者标注） | [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS/status/2123081613324243075) |
+| 2026-11-19 | [极简红底漫画海报：床上举花唱歌的小人与一排不买账的小白鸟（含精确文字）](entries/2026-11-19/2122994169195159599.md) | 其它 | 未注明 | [@abulu8](https://x.com/abulu8/status/2122994169195159599) |
+| 2026-11-19 | [马鼻子上的小毛毛虫：超近景童话水彩感插画（Midjourney 多 sref 混合）](entries/2026-11-19/2123068726350148040.md) | 其它 | Midjourney（作者标注，帖内参数含 --raw --hd） | [@heathergreen](https://x.com/heathergreen/status/2123068726350148040) |
+| 2026-11-19 | [「うちの子・オリジナル星座」：按角色性格生成专属星座的星空插画（#ゆきプロンプト）](entries/2026-11-19/2123023441175699603.md) | 二次元 | 未注明（角色参考图驱动的通用 prompt） | [@AIXyu1v](https://x.com/AIXyu1v/status/2123023441175699603) |
+| 2026-11-19 | [月光菌丝森林姬礼服：发光蘑菇主题幻想长裙（第163回衣装プロンプト试着）](entries/2026-11-19/2123272555091956079.md) | 二次元 | 未注明（作者称用 HIXAI 作图） | [@oteranosekai](https://x.com/oteranosekai/status/2123272555091956079) |
+| 2026-11-19 | [紺銀の軍装ゴシック：濃紺×黑×銀 军装哥特衣装、洋馆窗边读信（#FRSプロンプト）](entries/2026-11-19/2123227327589212413.md) | 二次元 | 未注明（角色参考图驱动的通用 prompt） | [@1aGe3u9BBQ46771](https://x.com/1aGe3u9BBQ46771/status/2123227327589212413) |
 | 2026-11-18 | [残破海岸的黑暗奇幻对决：黑斗篷女剑士 vs 肋骨燃烧的骷髅怨灵（4 镜头约 50 秒视频分镜）](entries/2026-11-18/2122916879824306422.md) | 真人 | Fable 5.2 + Seedance 2.5（作者标注） | [@Viniai_](https://x.com/Viniai_/status/2122916879824306422) |
 | 2026-11-18 | [雨中欧洲街头的魔法面包：路人女子隔空送面包给小女孩、小女孩再分给小猫（30 秒 6 场景）](entries/2026-11-18/2122690110575779999.md) | 真人 | Seedance 2.5（作者标注） | [@HeyAirahAi](https://x.com/HeyAirahAi/status/2122690110575779999) |
 | 2026-11-18 | [皇家蓝蝴蝶刺绣高定礼服：参考图人物的奢华时尚大片肖像](entries/2026-11-18/2122970980393889977.md) | 真人 | GPT Image 2.6（作者标注） | [@claire44](https://x.com/claire44/status/2122970980393889977) |

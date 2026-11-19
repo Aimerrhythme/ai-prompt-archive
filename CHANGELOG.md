@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-19（晚间轮）
+
+- 新增 12 条：真人 6、二次元 3、其它 3。其中视频条目 4 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 14 张，存于 `media/images/`；视频截图 4 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：一条 Seedance 2.5 大学校园泳池边视频帖（@ShahzadiAy_，互动最高，但属校园场景，按「校园学生角色」保守原则跳过）；一条 AI美女 白衬衫帖（@nox_field27，prompt 写素肌披衬衫、敞开领口，尺度偏成人）；一组 Nano Banana Pro 时装帖（@alicehan_ai，prompt 附三围数据，按前几轮同类处理）；一条和风哥特萝莉巫女衣装帖（@filis_y2，prompt 写短裙 + 过膝袜 + 吊袜带 + 甘ロリ，看不准就跳过）；一条 Grok Imagine 动漫角色在内衣卖场挑胸罩的帖（角色年龄存疑 + 尺度偏成人）；一条被标记敏感的 AI 美女帖（借用他人 prompt，原 prompt 不在帖内）。另有：两条名人 Nano Banana Pro 帖（@GlenajennerAi Madison Beer、@glenaunreal Charli D'Amelio，prompt 只在付费链接后）；@TechieBySA 三条 Seedance 视频帖（「Prompt below」但线程中取不到 prompt 原文）；多模型「同一 prompt 对比」帖未给 prompt 原文；只给 ChatGPT 分享链接、note 外链或「评论区要 prompt」的帖；一条 Seedance vlog 帖只给通用模板而非成片 prompt——均不收。
+- 本轮已避开 main 与开放 PR #4–#7、#9–#16 中已收录的帖子（含今晨 PR #16 curate/2026-11-19）。
+
 ## 2026-11-18（晚间轮）
 
 - 新增 12 条：真人 9、二次元 2、其它 1。其中视频条目 4 条（只留原帖链接和截图，不存视频文件）。
