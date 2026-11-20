@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-20
+
+- 新增 5 条：真人 3、二次元 2、其它 0。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 12 张，存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：一条赛博辣妹衣装帖（@tmg_ai_creator NEON PHANTOM，示例图为胸罩式短上衣 + 大幅露胸，人物偏娃娃脸，年龄与尺度看不准）；两组 Nano Banana Pro 时装帖（@alicehan_ai 晚礼服/街头朋克，prompt 附三围数据、写 youthful 面容 + 极深 V/比基尼上衣，按前几轮同类处理）；一条动漫自由落体鱼眼帖（@Le_Tavernicole，低角度短裙构图，年龄看不准）；一条 Seedance 韩式婚礼丧尸短片（互动不足 20 赞）。另有：衣装帖作者声明禁止再配布衣装设计（@sayo_aym #小夜の衣装箱）；#はるぼぼ衣装プロンプト 第27弾 prompt 在自回复中被截断、未见续帖；@TechieBySA、@Artedeingenio「prompt 给订阅者」付费墙；名人系列 Nano Banana Pro 帖（@Glenajenner、@glenaunreal，prompt 在付费链接后）；prompt 只给外链/note/图片链接的帖（如 @o222737472gmai1、@nai_Reality0714、@caia_ai）；多模型「同一 prompt 对比」帖未给 prompt 原文；付费衣装 prompt 集推广帖——均不收。同系列另一条龙主题视频（@Alina_with_Ai 花园美容沙龙）与本轮所收题材重复，未收。
+- 本轮已避开 main 与开放 PR #4–#7、#9–#16 中已收录的帖子。
+
 ## 2026-11-19（晚间轮）
 
 - 新增 12 条：真人 6、二次元 3、其它 3。其中视频条目 4 条（只留原帖链接和截图，不存视频文件）。
