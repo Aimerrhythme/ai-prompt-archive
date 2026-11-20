@@ -48,6 +48,11 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-20 | [龙帮忙刷白墙却刷出彩虹屋：Daisy 与笨拙巨龙的 30 秒奇幻喜剧（逐 3 秒分镜 + 对白）](entries/2026-11-20/2123234896516981152.md) | 真人 | Seedance 2.5（作者标注） | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2123234896516981152) |
+| 2026-11-20 | [苏格兰荒原晾衣日：冰蓝巨龙帮金发女子晒床单的 30 秒奇幻短片（分镜 + 音效设计）](entries/2026-11-20/2123372289832173959.md) | 真人 | Seedance 2.5（作者标注） | [@mehwishkiran07](https://x.com/mehwishkiran07/status/2123372289832173959) |
+| 2026-11-20 | [ChiHAL Original Outfit No.038『AFTER HOURS』：午夜藏青深 V 西装马甲 × 细条纹短裤的夜店风都市套装（日文衣装 prompt）](entries/2026-11-20/2123381494806667271.md) | 真人 | 未注明（衣装 prompt，配合自己的 AI 模特/参考图使用） | [@chihal_ai0509](https://x.com/chihal_ai0509/status/2123381494806667271) |
+| 2026-11-20 | [玲奈今日穿搭 11/19：淡蓝马海毛开衫 × 白高领 × 象牙缎面伞裙的「毛与缎」质感对比（汎用衣装 prompt + 写法技巧）](entries/2026-11-20/2123189515456016415.md) | 二次元 | 未注明（通用衣装 prompt，可加自家角色设定） | [@luche_whitewing](https://x.com/luche_whitewing/status/2123189515456016415) |
+| 2026-11-20 | [Sukajan Style Collection：黑 × 象牙缎面横须贺夹克情侣装（女款/男款两段英文衣装 prompt，#Prompt_ByTICA）](entries/2026-11-20/2123251780599574993.md) | 二次元 | 未注明（衣装 prompt，配合自家角色使用） | [@TicaTica46](https://x.com/TicaTica46/status/2123251780599574993) |
 | 2026-11-19 | [朝鲜王朝韩屋里的木剑对决：倔强少女挑战书生、打成平手后相视而笑（30 秒 6 场景浪漫喜剧）](entries/2026-11-19/2123084351533699466.md) | 真人 | Seedance 2.5（作者标注） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2123084351533699466) |
 | 2026-11-19 | [三层商场中庭的怪兽乱入：踩粉色滑板的浪人武士独战白色生化巨兽（30 秒逐秒分镜，多参考图写法）](entries/2026-11-19/2123264933005779284.md) | 真人 | Seedance 2.5（作者标注，经 Framia 生成） | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2123264933005779284) |
 | 2026-11-19 | [手机前置一镜到底自拍特写：冰蓝瞳孔欧洲女子的松弛呼吸感 vlog（15 秒导演式中文 prompt）](entries/2026-11-19/2123016617835532705.md) | 真人 | Seedance 2.5（作者标注） | [@johnAGI168](https://x.com/johnAGI168/status/2123016617835532705) |
