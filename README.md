@@ -48,6 +48,18 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-20 | [GTA VI「Vice City 角色揭晓」海报：照片一键变 Rockstar 风角色立绘 + 加载条 + 原图小窗（JSON 结构化 prompt）](entries/2026-11-20/2123499286222741652.md) | 真人 | GPT Image 2.6（作者标注，经 TapNow） | [@Just_sharon7](https://x.com/Just_sharon7/status/2123499286222741652) |
+| 2026-11-20 | [巨型岩石怪兽夜袭老城街区：卫衣青年逃亡的 90 秒怪兽惊悚片（分场景好莱坞式 prompt）](entries/2026-11-20/2123711436979630328.md) | 真人 | Seedance 2.5（作者标注；prompt 写明也适用 Kling 4.0 等） | [@AiWithZayan](https://x.com/AiWithZayan/status/2123711436979630328) |
+| 2026-11-20 | [海边栈桥与大学回忆：两位昔日对手闺蜜在烟火下和解重逢的 30 秒韩剧风短片](entries/2026-11-20/2123699367223656912.md) | 真人 | Seedance 2.5（作者标注） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2123699367223656912) |
+| 2026-11-20 | [可乐从红纸杯倾倒在高马尾女生头顶：极近景慢动作液体物理特写（9:16）](entries/2026-11-20/2123582650753720627.md) | 真人 | Seedance 2.5（作者标注） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2123582650753720627) |
+| 2026-11-20 | [头巾女孩的 Shopee 开箱穿搭广告：豆沙粉衬衫 + 碎花阔腿裤的 40 秒保守风时装短片](entries/2026-11-20/2123375440677183611.md) | 真人 | 未注明具体模型（作者写可用 Gemini、Grok 或 GPT Image 2.0 出图再生成视频） | [@DuaFatimaAi](https://x.com/DuaFatimaAi/status/2123375440677183611) |
+| 2026-11-20 | [花海之上的九尾狐守护：仙界云海里巨狐背上长出花园、古装女子替小白狐包扎（繁中写实仙侠 prompt）](entries/2026-11-20/2123329771895701651.md) | 真人 | 未注明 | [@Ling_1055Tw](https://x.com/Ling_1055Tw/status/2123329771895701651) |
+| 2026-11-20 | [一道深红光刃斜切面部：狭缝遮光片打光的奢侈品社论人像（GPT Image 2.5 摄影式 prompt）](entries/2026-11-20/2123385804604985551.md) | 真人 | GPT Image 2.5（作者标注） | [@CharaspowerAI](https://x.com/CharaspowerAI/status/2123385804604985551) |
+| 2026-11-20 | [珍珠白 × 皇家藏青 × 古金的王族礼仪军装长裙：雪花宝石胸针与披肩肩章（#kk衣装プロンプト「王族」）](entries/2026-11-20/2123341132486918204.md) | 二次元 | 未注明（衣装 prompt，配合自家角色使用） | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2123341132486918204) |
+| 2026-11-20 | [「Petite Doll Atelier」：把自家角色做成大头小身高级艺术娃娃的商品目录图（双参考图 + 三视图）](entries/2026-11-20/2123621669084303361.md) | 二次元 | 未注明（双参考图驱动的通用 prompt，#のらるプロンプト） | [@irohachang77](https://x.com/irohachang77/status/2123621669084303361) |
+| 2026-11-20 | [被城市遗忘的涂鸦雕像：后巷里贴满贴纸与喷漆的巨大彩色雕像与滑板少年们（#Prompt Share）](entries/2026-11-20/2123484565465678040.md) | 其它 | 未注明 | [@edizkan_](https://x.com/edizkan_/status/2123484565465678040) |
+| 2026-11-20 | [只用 5 个词：「Spectacles festive jellyfish dot-art caricature」在 12 个图像模型上的横向对比](entries/2026-11-20/2123418518762717435.md) | 其它 | 12 款模型对比（作者标注：Midjourney 8.2、Kling 4、Krea 3、Magnific one、Ideogram 4.5、Seedream 5.5、ChatGPT 2.6、Recraft 4.1、Microsoft MIA、Flux 3、Nano Banana 2.1、Qwen 3.0 pro） | [@Shinebynous](https://x.com/Shinebynous/status/2123418518762717435) |
+| 2026-11-20 | [火星上的兔耳兜帽小人：破旧背包展开成氧气系统、白橙机甲覆身的 Grok Imagine 变身短片](entries/2026-11-20/2123529759522996482.md) | 其它 | Grok Imagine 4.7（作者标注） | [@Aiminithoughts](https://x.com/Aiminithoughts/status/2123529759522996482) |
 | 2026-11-19 | [朝鲜王朝韩屋里的木剑对决：倔强少女挑战书生、打成平手后相视而笑（30 秒 6 场景浪漫喜剧）](entries/2026-11-19/2123084351533699466.md) | 真人 | Seedance 2.5（作者标注） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2123084351533699466) |
 | 2026-11-19 | [三层商场中庭的怪兽乱入：踩粉色滑板的浪人武士独战白色生化巨兽（30 秒逐秒分镜，多参考图写法）](entries/2026-11-19/2123264933005779284.md) | 真人 | Seedance 2.5（作者标注，经 Framia 生成） | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2123264933005779284) |
 | 2026-11-19 | [手机前置一镜到底自拍特写：冰蓝瞳孔欧洲女子的松弛呼吸感 vlog（15 秒导演式中文 prompt）](entries/2026-11-19/2123016617835532705.md) | 真人 | Seedance 2.5（作者标注） | [@johnAGI168](https://x.com/johnAGI168/status/2123016617835532705) |

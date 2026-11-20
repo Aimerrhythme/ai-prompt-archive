@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-20（晚间轮）
+
+- 新增 12 条：真人 7、二次元 2、其它 3。其中视频条目 6 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 26 张，存于 `media/images/`；视频截图 6 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：一条「超写实文艺复兴裸妇像」prompt 帖（@tyappynogenkai，裸体题材）；一条「换衣服时被撞见」日常抓拍 prompt 帖（@redchan2002，尺度偏成人）；一条 #異世界二択 巨兽墓场帖（@LowAngleMuse，示例图为超低仰角 + 兽皮比基尼猎人，尺度偏大）；同作者「OC 两岁幼儿时期 9 宫格」帖（幼儿形象，按保守原则跳过）；一条 Seedance 首尔小巷动作视频帖（@ArdenAI07，开场为四名男子围堵骚扰女子，按保守原则跳过）；一组 #kk衣装プロンプト「騎士」衣装帖（短裙 + 大腿吊袜带，看不准就跳过；同作者「王族」款已收）；一条牡羊座双人衣装帖（@inmnftrai，prompt 含 bloomers，角色年龄看不准）；一条胸罩 + 牛仔裤多模型对比帖（@tealdog2，尺度偏成人）；@alicehan_ai 一组 Nano Banana Pro 帖与 @nox_field27 AI美女帖（按前几轮同类处理）。另有：prompt 不公开、只给 DM 的帖（@kantakanta1233）；prompt 只在 note / BOOTH / chichi-pui 等外链的帖（@22tan_v、@oteranosekai、@bantya_otime 等）；prompt 只在图片里或线程不全的帖（@unknownw0t9、@like_a_gratin 仅取到共通部分）；多模型「同一 prompt 对比」帖未给 prompt 原文；「评论区要 prompt」与借用他人 prompt 的转作帖——均不收。
+- 本轮已避开 main 与开放 PR #4–#7、#9–#17 中已收录的帖子（含今晨 PR #17 curate/2026-11-20）。
+
 ## 2026-11-19（晚间轮）
 
 - 新增 12 条：真人 6、二次元 3、其它 3。其中视频条目 4 条（只留原帖链接和截图，不存视频文件）。
