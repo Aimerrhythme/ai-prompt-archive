@@ -48,6 +48,18 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-23 | [「DIFFERENT PLACES. ONE SKY.」：上半保留原照片、下半把同一场景全部用云朵雕塑重建的概念海报](entries/2026-11-23/2124744066021925290.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@Just_sharon7](https://x.com/Just_sharon7/status/2124744066021925290) |
+| 2026-11-23 | [「A LITTLE POSTCARD FROM…」：极简手绘水彩城市地标明信片（替换 \[CITY\]/\[COUNTRY\] 即用）](entries/2026-11-23/2124723328414048351.md) | 其它 | GPT Image 2.6（作者标注） | [@Naiknelofar788](https://x.com/Naiknelofar788/status/2124723328414048351) |
+| 2026-11-23 | [上半原照片 + 下半同场景微缩积木模型：带铭牌的微距产品摄影风「小小杰作」](entries/2026-11-23/2124732867549053196.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2124732867549053196) |
+| 2026-11-23 | [斑马纹宽松长袍 + 珍珠项链：米色沙发上的奢华时尚社论人像（参考图换脸写法）](entries/2026-11-23/2124749699248738376.md) | 真人 | Nano Banana 2.1（作者标注） | [@MahiraEhan](https://x.com/MahiraEhan/status/2124749699248738376) |
+| 2026-11-23 | [欧洲街头的黑帽皮夹克街拍：同一参考人物的 4 种时装社论构图（85mm 人像）](entries/2026-11-23/2124501638635561464.md) | 真人 | GPT Image 2.6（作者标注，经 ChatGPT） | [@mehvishs25](https://x.com/mehvishs25/status/2124501638635561464) |
+| 2026-11-23 | [1970 年代意大利生活杂志风：佛罗伦萨石板街骑车女子街拍 + 下半瑞士风自行车技术图解海报](entries/2026-11-23/2124704121089581130.md) | 真人 | Nano Banana（作者标注 Google Gemini Nano Banana，经 Higgsfield） | [@aniyaintel](https://x.com/aniyaintel/status/2124704121089581130) |
+| 2026-11-23 | [实拍纪录片质感的「威利狼与哔哔鸟」：假隧道、悬崖钢索、红色卡车、巨石陷阱的 80 秒荒漠喜剧（7 段分镜 + 音效）](entries/2026-11-23/2124695716396507469.md) | 其它 | Seedance 2.5（作者标注；另写 Opus 5.5） | [@itsshara_ai](https://x.com/itsshara_ai/status/2124695716396507469) |
+| 2026-11-23 | [非洲草原三只幼崽变形金刚式合体成车/潜艇、甩掉鬣狗的 3D 动画喜剧短片（分段分镜 + 音效）](entries/2026-11-23/2124340476136525832.md) | 其它 | Seedance 2.5（作者标注；自回复写 Made By invideo） | [@Viniai_](https://x.com/Viniai_/status/2124340476136525832) |
+| 2026-11-23 | [「袖の中からこんにちは」：二头身迷你自家角色从大毛衣袖口探出脸来（#ゆきプロンプト）](entries/2026-11-23/2124420125420056856.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2124420125420056856) |
+| 2026-11-23 | [「ぬいぐるみ王国のVIPルーム」：自家角色作为特别嘉宾被一屋子毛绒玩偶款待（6800 关注纪念配布）](entries/2026-11-23/2124766767377699008.md) | 二次元 | 未注明 | [@harubobo_san](https://x.com/harubobo_san/status/2124766767377699008) |
+| 2026-11-23 | [「Petit Sweets Wonderland」：坐在巨大草莓蛋糕/巧克力蛋糕/芝士蛋糕切块上、握银叉的甜点微缩世界（3 款 + 共通负面）](entries/2026-11-23/2124442771377533159.md) | 二次元 | 未注明（作者写「TSUBAKI推奨」） | [@xOwOx_U](https://x.com/xOwOx_U/status/2124442771377533159) |
+| 2026-11-23 | [「神衣装」：黑白双色中性风哥特天使·地雷系神明服装（光环、十字、银链、厚底靴）](entries/2026-11-23/2124486177873137746.md) | 二次元 | 未注明（作者提到 LoRA 会影响腿长等） | [@Shii_yuumrg](https://x.com/Shii_yuumrg/status/2124486177873137746) |
 | 2026-11-20 | [GTA VI「Vice City 角色揭晓」海报：照片一键变 Rockstar 风角色立绘 + 加载条 + 原图小窗（JSON 结构化 prompt）](entries/2026-11-20/2123499286222741652.md) | 真人 | GPT Image 2.6（作者标注，经 TapNow） | [@Just_sharon7](https://x.com/Just_sharon7/status/2123499286222741652) |
 | 2026-11-20 | [巨型岩石怪兽夜袭老城街区：卫衣青年逃亡的 90 秒怪兽惊悚片（分场景好莱坞式 prompt）](entries/2026-11-20/2123711436979630328.md) | 真人 | Seedance 2.5（作者标注；prompt 写明也适用 Kling 4.0 等） | [@AiWithZayan](https://x.com/AiWithZayan/status/2123711436979630328) |
 | 2026-11-20 | [海边栈桥与大学回忆：两位昔日对手闺蜜在烟火下和解重逢的 30 秒韩剧风短片](entries/2026-11-20/2123699367223656912.md) | 真人 | Seedance 2.5（作者标注） | [@KrishnaBio1](https://x.com/KrishnaBio1/status/2123699367223656912) |

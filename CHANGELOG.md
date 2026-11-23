@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-23（晚间轮）
+
+- 新增 12 条：真人 3、二次元 4、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 28 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@GlenajennerAi / @glenaunreal / @Glenajenner 三条名人 Nano Banana Pro 帖（Charli D'Amelio、Millie Bobby Brown、Madison Beer，prompt 只在付费链接后）；一条衣装帖（@tmg_ai_creator，prompt 写明展示胸线、露腹、低腰短裤，尺度偏成人）；@chihal_ai0509 同类衣装帖（prompt 强调デコルテ与胸线，看不准就跳过）；一条和装×原宿衣装帖（@yana_al_，1girl + 迷你裙 + 过膝袜，年龄看不准）；一条 cupcake × piano 甜ロリ衣装帖（@_zllzuu，迷你蓬蓬裙，且 prompt 分散在多条 ALT 中）；@__kon25 衣装帖（作者声明「無断転載×」）；@Le_Tavernicole 三条角色设定图 prompt 帖（示例中有偏性感造型，且其中一条 prompt 需要另一张原图做构图参考）；一条 Seedance 草原动画视频帖（@Nexa_Tech_Ai，与已收的 @Viniai_ 同系列模板高度重复）；@AiWithRimsha、@itsPixieVerse 视频帖（「Prompt below」但线程中取不到 prompt 原文）；圣诞树衣装帖（@yamadaex5，prompt 只在图片里）；@alicehan_ai Nano Banana Pro 帖（按前几轮同类处理）；@AIXyu1v 记念切手帖（同作者已收一条，留待下轮）。另有：多模型「同一 prompt 对比」帖、「评论区要 prompt」与只给外链的帖、R18 平台推广帖——均不收。
+- 本轮已避开 main、开放 PR #4–#7、#9–#18（含今晨 PR #18 curate/2026-11-23）及 curate/2026-10-29 至 curate/2026-11-23 各分支中已收录的帖子。
+
 ## 2026-11-20（晚间轮）
 
 - 新增 12 条：真人 7、二次元 2、其它 3。其中视频条目 6 条（只留原帖链接和截图，不存视频文件）。
