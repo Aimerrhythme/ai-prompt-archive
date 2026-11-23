@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-23
+
+- 新增 6 条：真人 2、二次元 2、其它 2。其中视频条目 1 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 18 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 1 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：一条「うちの子、突然ちっちゃくなった！？」角色缩小 prompt 帖（@ArtistaNozomu，作者声明「再配布禁止」）；一条「花海の鉢を覗く」构图 prompt 帖（@Nuko5rcd，主体 prompt 只以图片形式给出）；一条 Nai V5 配布帖（@like_a_gratin，ALT 未成功、prompt 改放外链）；@_yatonya_ 衣装 prompt 只在 note 外链；@MelodyMocha0 prompt 只在图片里；@nai_Reality0714 prompt 只在外链；一条乳胶衣金发人像帖（@Kunda623270，尺度偏性感、年龄观感拿不准）；一条「20 岁沙漏型身材」双模型对比帖（@CandyTravelight，偏身材性化描写）；@alicehan_ai Nano Banana Pro 自拍帖（按前几轮同类处理）；一条 Gobbo 角色梗图帖（@LarissaTheGobbo，作者在回复区提及 NSFW 版本，保守跳过）；带「Try it」平台推广链接的 Nano Banana 自拍帖（@dreamydigiarts）；多模型「同一 prompt 对比」帖未给 prompt 原文、借用他人 prompt 的转作帖、产品营销帖——均不收。
+- 本轮已避开 main 与开放 PR #4–#7、#9–#17 及 curate/2026-10-29 至 curate/2026-11-20 各分支中已收录的帖子。
+
 ## 2026-11-20（晚间轮）
 
 - 新增 12 条：真人 7、二次元 2、其它 3。其中视频条目 6 条（只留原帖链接和截图，不存视频文件）。
