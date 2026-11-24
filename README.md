@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-24 | [雨夜赛博朋克天台决斗：银焰双枪手 vs 紫晶机械臂剑士的 30 秒连续动作戏（分秒分镜 + 镜头 + 音效）](entries/2026-11-24/2124775736351367301.md) | 其它 | Seedance 2.5（作者标注；写「made this with claude + seedance 2.5」） | [@whizz_xD](https://x.com/whizz_xD/status/2124775736351367301) |
+| 2026-11-24 | [「THE BLONDE WOMAN WITH THE BLACK UMBRELLA」：金发女子用黑伞在纽约街头制造 8 段连环小意外的 30 秒写实街头喜剧](entries/2026-11-24/2124485164030214407.md) | 真人 | Seedance 2.5（作者标注） | [@Grow_withAI](https://x.com/Grow_withAI/status/2124485164030214407) |
+| 2026-11-24 | [丛林卫星上被森林吞没的废弃未来研究所：侦察无人机穿行巨树与瀑布间的探索长镜头（4K）](entries/2026-11-24/2124425737499496926.md) | 其它 | Kling 4.0（作者标注，4K 版本） | [@Alin_Reaper05](https://x.com/Alin_Reaper05/status/2124425737499496926) |
+| 2026-11-24 | [「ゴシックラグジュアリー」：黑白金 + 水蓝宝石配色的成熟哥特奢华衣装（紧身胸衣迷你裙 + 落肩大衣，#kk衣装プロンプト）](entries/2026-11-24/2124069150410920227.md) | 二次元 | 未注明 | [@uRMS7Vm26qqEE5J](https://x.com/uRMS7Vm26qqEE5J/status/2124069150410920227) |
+| 2026-11-24 | [「ドーナツの穴にすっぽり」：二头身迷你自家角色从大甜甜圈中间的洞里探出脸（#ゆきプロンプト）](entries/2026-11-24/2124110597814116571.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2124110597814116571) |
+| 2026-11-24 | [「うちの子召喚」：游戏王风自家角色召唤怪兽 + 怪兽放出必杀技的斜向两格漫画（两段配套 prompt）](entries/2026-11-24/2123962149181804889.md) | 二次元 | ChatGPT（prompt 内写「キャラ画像と全文をChatGPTへ」） | [@klUM384Vbr2BDjE](https://x.com/klUM384Vbr2BDjE/status/2123962149181804889) |
 | 2026-11-23 | [「DIFFERENT PLACES. ONE SKY.」：上半保留原照片、下半把同一场景全部用云朵雕塑重建的概念海报](entries/2026-11-23/2124744066021925290.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@Just_sharon7](https://x.com/Just_sharon7/status/2124744066021925290) |
 | 2026-11-23 | [「A LITTLE POSTCARD FROM…」：极简手绘水彩城市地标明信片（替换 \[CITY\]/\[COUNTRY\] 即用）](entries/2026-11-23/2124723328414048351.md) | 其它 | GPT Image 2.6（作者标注） | [@Naiknelofar788](https://x.com/Naiknelofar788/status/2124723328414048351) |
 | 2026-11-23 | [上半原照片 + 下半同场景微缩积木模型：带铭牌的微距产品摄影风「小小杰作」](entries/2026-11-23/2124732867549053196.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2124732867549053196) |

@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-24（第 1 轮）
+
+- 新增 6 条：真人 1、二次元 3、其它 2。其中视频条目 3 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 15 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 3 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：令和ギャル 8 选衣装杂志帖（@tyappynogenkai，prompt 虽写成人女性，但示例画风偏幼、含翘臀等性感姿势，年龄看不准）；@LowAngleMuse 遗迹/鬼屋系列（超低角度仰拍短裙角色，prompt 只写背景）；全女子高中潜入视频（@AI__TSUBAKI，学生设定）；パステル・ポップ衣装（@yaya_karame，迷你裙 + 镂空上衣，年龄看不准）；@AiWithRimsha、@LabOfMonsters、@KasaneTomos0401 等「Absolute Masterpiece」视频帖（线程中取不到 prompt 原文）与 @itsshara_ai 同系列（invideo 推广 + 与已收 @Viniai_ 模板重复）；@claire44（线程中取不到 prompt）；@alicehan_ai Nano Banana Pro 系列（prompt 只在外链/图片里）；多模型「同一 prompt 对比」帖、prompt 截断或只给外链/Telegram 的帖、教程营销帖——均不收。
+- 本轮已避开 main 与所有开放 PR / curate/* 分支中已收录的帖子。
+
 ## 2026-11-23（晚间轮）
 
 - 新增 12 条：真人 3、二次元 4、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
