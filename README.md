@@ -48,6 +48,17 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-24 | [「うちの子・記念切手コレクション」：自家角色的 4 款原创纪念邮票（2×2 排版、齿孔边、淡消印）](entries/2026-11-24/2124790066866438544.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2124790066866438544) |
+| 2026-11-24 | [湿发雀斑女子在拥挤室内直视镜头的情绪特写：铅笔盘发、鼻环、银链（Seedance 2.5 写实视频）](entries/2026-11-24/2124850381973053842.md) | 真人 | Seedance 2.5（作者标注） | [@SeeratFatima112](https://x.com/SeeratFatima112/status/2124850381973053842) |
+| 2026-11-24 | [《人魚のドレス》：淡紫×冰蓝×珍珠白的人鱼公主礼服设计（贝壳胸饰、鱼鳞纹、尾鳍长裙）](entries/2026-11-24/2124872082773471239.md) | 二次元 | 未注明 | [@YrAn1n](https://x.com/YrAn1n/status/2124872082773471239) |
+| 2026-11-24 | [「ずっと、会いたかった」：真实街景中的动漫角色，第一人称视角下紧握你伸出的手、含泪微笑](entries/2026-11-24/2125172118619083027.md) | 二次元 | NovelAI / TSUBAKI3 / ChatGPT（作者标注） | [@shiyuhu_tadano](https://x.com/shiyuhu_tadano/status/2125172118619083027) |
+| 2026-11-24 | [「ブーケウェディングドレス」：裙内塞满花束的花束婚纱 + 花冠缎带漂浮姿势（Tsubaki3 版 + SDXL 版）](entries/2026-11-24/2124840794221920498.md) | 二次元 | Tsubaki3（作者标注；另附 SDXL 向 prompt） | [@zetarouas](https://x.com/zetarouas/status/2124840794221920498) |
+| 2026-11-24 | [「MAGICAL TRANSFORMATION」：自家角色的魔法少女式变身桥段，上下 2 格（举起变身道具 → 光之缎带包裹）](entries/2026-11-24/2125089151158743060.md) | 二次元 | 未注明 | [@irohachang77](https://x.com/irohachang77/status/2125089151158743060) |
+| 2026-11-24 | [「クラシカル・レッドウィンターコーデ」：红色斗篷大衣 + 红黑格纹苏格兰裙 + 贝雷帽的冬季衣装](entries/2026-11-24/2124782044484108426.md) | 二次元 | 未注明 | [@shirase_mio](https://x.com/shirase_mio/status/2124782044484108426) |
+| 2026-11-24 | [「YŌKAI AWAKENING — THE FALL」：角色道德崩坏、开始妖怪化瞬间的粗犷浮世绘 × 水墨面部特写（超长结构化 prompt）](entries/2026-11-24/2124948154626068785.md) | 二次元 | 未注明 | [@Le_Tavernicole](https://x.com/Le_Tavernicole/status/2124948154626068785) |
+| 2026-11-24 | [「Weightless. Wired. Glowing.」：银金发女子在霓虹光轨隧道中腾跃的赛博动感数字艺术](entries/2026-11-24/2125157406858432899.md) | 其它 | 未注明 | [@ZoltanMerczel](https://x.com/ZoltanMerczel/status/2125157406858432899) |
+| 2026-11-24 | [Midjourney V8.2 黏土艺术角色：用 Niji 6 sref 做成的 moodboard（profile）移植到 V8.2（附 Niji 6 原版写法）](entries/2026-11-24/2125046427500114018.md) | 其它 | Midjourney V8.2（另附 Niji 6 版） | [@imhealmachine](https://x.com/imhealmachine/status/2125046427500114018) |
+| 2026-11-24 | [鼻尖停着一只蝴蝶的侧颜特写：花枝环绕、花种与蝶翼颜色随机（ChatGPT / PixAI 通用）](entries/2026-11-24/2125056224672760207.md) | 二次元 | ChatGPT / PixAI（作者标注均可用） | [@mirano_rano00](https://x.com/mirano_rano00/status/2125056224672760207) |
 | 2026-11-23 | [「DIFFERENT PLACES. ONE SKY.」：上半保留原照片、下半把同一场景全部用云朵雕塑重建的概念海报](entries/2026-11-23/2124744066021925290.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@Just_sharon7](https://x.com/Just_sharon7/status/2124744066021925290) |
 | 2026-11-23 | [「A LITTLE POSTCARD FROM…」：极简手绘水彩城市地标明信片（替换 \[CITY\]/\[COUNTRY\] 即用）](entries/2026-11-23/2124723328414048351.md) | 其它 | GPT Image 2.6（作者标注） | [@Naiknelofar788](https://x.com/Naiknelofar788/status/2124723328414048351) |
 | 2026-11-23 | [上半原照片 + 下半同场景微缩积木模型：带铭牌的微距产品摄影风「小小杰作」](entries/2026-11-23/2124732867549053196.md) | 其它 | GPT Image 2.6（作者标注，经 TapNow） | [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2124732867549053196) |

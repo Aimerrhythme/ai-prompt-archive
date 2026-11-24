@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-24（晚间轮）
+
+- 新增 11 条：真人 1、二次元 8、其它 2。其中视频条目 1 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 31 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 1 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@glenaunreal / @Glenajenner 两条名人 Nano Banana Pro 帖（Madison Beer、Millie Bobby Brown，prompt 只在付费链接后）；@tealdog2 镜前人像多模型帖（prompt 写深 V 领迷你裙 + 三围比例锚点，尺度偏成人）；@alicehan_ai 两条 Nano Banana Pro 帖（19 岁偶像 + 三围数据，按前几轮同类处理）；@antrospike 卧室低光人像帖（白缎衬衫滑落双肩，尺度偏成人）；@VIBEQUIRKLABS Midjourney V8.2 街拍帖（prompt 附三围数据，看不准就跳过）；@tyappynogenkai 国旗泳装 8 选帖（泳装特辑，按保守原则跳过）；@NayaVerseee pin-up 海报帖（高开衩 + hip out 姿势，看不准就跳过）；@KasaneTomos0401、@higodelaluna 等十余条「This AI video is an Absolute Masterpiece」Seedance 模板帖（「Prompt below」但线程中取不到 prompt 原文）；@huwria 构图 prompt 帖、@Lucky_On_Fleek 死神水墨帖、@RTJLDR Seedream 系列帖（prompt 只在外链）；@borryshasian 积木商品广告帖（互动过低，留待观察）。另有：多模型「同一 prompt 对比」帖、借用他人 prompt 的转作帖、工具推广帖——均不收。
+- 本轮已避开 main、开放 PR #4–#7、#9–#19（含今晨 PR #19 curate/2026-11-24）及 curate/2026-10-29 至 curate/2026-11-23 各分支中已收录的帖子。
+
 ## 2026-11-23（晚间轮）
 
 - 新增 12 条：真人 3、二次元 4、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
