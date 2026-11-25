@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-25
+
+- 新增 6 条：真人 0、二次元 6、其它 0。本轮无视频条目。
+- 新增图片 15 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`。
+- README 索引表加入本轮条目。
+- 跳过：@glenaunreal / @Glenajenner 名人 Nano Banana Pro 帖（prompt 只在付费链接后）；@KasaneTomos0401、@LabOfMonsters 等「This AI video is an Absolute Masterpiece」Seedance 模板帖（「Prompt below」但线程中取不到 prompt 原文）；@ai_sorano_e3 警察官 cosplay 帖（作者自称完成版「刺激強め」，按保守原则跳过）；@moirefold「Bound Brides」帖（束缚题材且 prompt 只在外链）；@CyberTotal2026 蕾丝背影人像帖（背部与腰部展示向，看不准尺度就跳过）；@okojo2345 猫姿构图帖（趴床抱枕姿势，作者注明不写衣服会生成裸体）；@kyuuritonasu07 哥特萝莉衣装帖（年龄看不准）；@Luka_zeta 系列（prompt 只在 note 外链）；@unknownw0t9、@Utatane_sample、@4hmub 衣装帖（prompt 只在图片里）；@chichipuijaian Grok Imagine 帖（需先用引用原帖生成「初手」图）；@dreamydigiarts Nano Banana 2 系列（平台推广链接帖）；@claire44、@tealdog2、@HBCoop_ 等多模型「同一 prompt 对比」帖；@tmg_ai_creator 等借用他人 prompt 的转作帖、@CopyPromt 等外链 prompt 帖、CapCut 推广帖——均不收。@carolletta Grok Imagine 克莱因瓶折纸视频帖（prompt 完整，但互动低于门槛，留待观察）。
+- 本轮已避开 main、开放 PR #4–#7、#9–#19 及 curate/2026-10-29 至 curate/2026-11-24 各分支中已收录的帖子。
+
 ## 2026-11-24（晚间轮）
 
 - 新增 11 条：真人 1、二次元 8、其它 2。其中视频条目 1 条（只留原帖链接和截图，不存视频文件）。
