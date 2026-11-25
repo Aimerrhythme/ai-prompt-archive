@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-25（晚间轮）
+
+- 新增 9 条：真人 1、二次元 3、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 16 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@pocky2914 通勤电车「DVD 封面风」制服帖（制服 + 男性手放臀部，按保守原则跳过）与同作者卧室相拥帖（男方赤裸上身、贴身亲密，尺度偏成人）；@Zackjpnman 三条帖（润滑液相扑、深 V 溢出 + 吊袜网袜、湿透短吊带，尺度偏成人）；@NayaVerseee 两条 prompt share（高开衩 + hip out、紧身皮衣低角度背影，看不准就跳过，与前几轮同类处理一致）；@yuki_hina0816 睡衣衣装帖（作者自述露出偏多）；@tealdog2 镜前人像多模型帖与 @CandyTravelight 健身房抓拍帖（按前几轮同类处理）；@caia_ai、@alicehan_ai、@Glenajenner 等（prompt 只在外链/付费链接后）；@Le_Tavernicole「ABSURDIST DISLOCATION」（prompt 只在 Pastebin 外链）；@nono_chi55 衣装插画帖、@I2yqnI 衣装配布帖（prompt 只在图片里或未找到文字版）；@KasaneTomos0401、@higodelaluna 等十余条「This AI video is an Absolute Masterpiece」Seedance 模板帖（线程中取不到 prompt 原文）；@oteranosekai 衣装 prompt 集（付费）；@McC3Kat、@ArtMuret 等只给 --sref 代码的帖；@AurenVossVT 剪影 prompt 帖（同作者已收一条，留待下轮）。另有：多模型「同一 prompt 对比」帖、借用他人 prompt 的转作/企划参加帖、越狱 prompt 与工具推广帖——均不收。
+- 本轮已避开 main、开放 PR #4–#7、#9–#20（含今晨 PR #20 curate/2026-11-25）及 curate/2026-10-29 至 curate/2026-11-25 各分支中已收录的帖子。
+
 ## 2026-11-24（晚间轮）
 
 - 新增 11 条：真人 1、二次元 8、其它 2。其中视频条目 1 条（只留原帖链接和截图，不存视频文件）。
