@@ -48,6 +48,12 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | [「スチームパンクメイド / バトラー」：茶×黑×黄铜的蒸汽朋克女仆与管家衣装（维多利亚洋馆 + 齿轮茶会）](entries/2026-11-26/2125129807667343736.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2125129807667343736) |
+| 2026-11-26 | [Niji 8 Q 版全身角色模板：{Character Description} 占位 + 双 sref + profile（纯白底 chibi）](entries/2026-11-26/2125598597353988238.md) | 二次元 | Midjourney Niji 8（作者标注 Nijijourney） | [@imhealmachine](https://x.com/imhealmachine/status/2125598597353988238) |
+| 2026-11-26 | [「Not every adventure needs a ticket」：圆框眼镜丸子头女子的上下双格手绘动漫编辑插画（JSON 结构化 prompt）](entries/2026-11-26/2125649082849128934.md) | 二次元 | GPT Image 2.5（作者标注） | [@Just_Anika_Here](https://x.com/Just_Anika_Here/status/2125649082849128934) |
+| 2026-11-26 | [「Frosty patterns」：极光下的魔法冰湖夜景，霜冻灌木、冰下彩色光点与前景冰花蕨晶（分区式写实风景 prompt）](entries/2026-11-26/2125685392053846024.md) | 其它 | GPT Image 2.5 Sunburst（经 @dreamina_ai，作者标注） | [@churvikv](https://x.com/churvikv/status/2125685392053846024) |
+| 2026-11-26 | [「By the Window」：落地窗前从吧凳起身、甩出银色夹克再走到窗边的金发女子（15 秒伪一镜到底舞蹈视频 prompt）](entries/2026-11-26/2125166263345533153.md) | 真人 | Krea 2 + MiniMax-H3（ComfyUI，作者标注） | [@ou_zhen599](https://x.com/ou_zhen599/status/2125166263345533153) |
+| 2026-11-26 | [「One saves the universe. The other has a meeting at 9.」：西装墨镜叼烟的赛亚人 vs 超级赛亚人金发气场（两条动漫电影感 prompt）](entries/2026-11-26/2125628828580200938.md) | 二次元 | GPT Image 2.0（作者标注） | [@Madhuribhai](https://x.com/Madhuribhai/status/2125628828580200938) |
 | 2026-11-25 | [黑色细肩带上衣 + 心形吊坠 choker 的深棕精灵短发女子：暖调影棚时尚人像特写](entries/2026-11-25/2125182660406550918.md) | 真人 | Nano Banana 2（经 @weryai，作者标注） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2125182660406550918) |
 | 2026-11-25 | [「レーシング巫女」：白红巫女风机能夹克 × 黑色紧身连体内衬 × 赛车配色的衣装设计](entries/2026-11-25/2125182658762465538.md) | 二次元 | 未注明 | [@danierunobobu](https://x.com/danierunobobu/status/2125182658762465538) |
 | 2026-11-25 | [「No matter how long the night, the morning always comes」：上传角色设定图，倚墙坐在空房间地板上沐浴最后一缕暖阳（结构化角色 prompt）](entries/2026-11-25/2124916343770169698.md) | 二次元 | 未注明 | [@AurenVossVT](https://x.com/AurenVossVT/status/2124916343770169698) |

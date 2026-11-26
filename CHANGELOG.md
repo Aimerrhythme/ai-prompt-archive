@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-26
+
+- 新增 6 条：真人 1、二次元 4、其它 1。其中视频条目 1 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 11 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 1 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@NayaVerseee 三条 pin-up prompt share（高开衩 + hip out、紧身皮衣低角度背影等，与前几轮同类处理一致）；@Kunda623270 街拍人像（prompt 写「约 20 岁」并强调胸部比例，看不准就跳过）及同作者「粉色蕾丝吊带自拍」帖；@tyappynogenkai 三条衣装/ランジェリー帖（作者自述「1発アウト」「貼らない方がいい」，尺度偏成人）；@kurageanime niji7/8 对比帖（high school girl 设定）；@1027mio0721masa 纹身介绍帖（ChatGPT 绕过审查、露出）；@moirefold 捆绑新娘 prompt（只在外链）；@glenaunreal / @Glenajenner 名人帖与 @Artedeingenio（付费墙）；@alicehan_ai Nano Banana Pro 帖（prompt 在外链）；@Sefiria_Azur、@irisfionaAIBS（prompt 在外链页面）；@15Bamakimbo（借用他人 prompt，原文在别人页面）；@yumesyokunin、@GlitterPixely（只给 --sref 代码）；@HJmammydragon、@alena1773 等 Grok Imagine 视频帖（无可复用 prompt 原文）；@tealdog2、@kawagoe_ai、@AIXyu1v「同じプロンプト」、@claire44、@HBCoop_ 等多模型「同一 prompt 对比」帖；CapCut Web Ultra 等推广帖；@carolletta、@dreamydigiarts 等互动不足约 20 赞的帖；@AIXyu1v オルゴール化 / 万年筆两条（同作者已收一条，留待下轮）。
+- 本轮已避开 main、开放 PR #4–#7、#9–#20 及 curate/2026-10-29 至 curate/2026-11-25 各分支中已收录的帖子。
+
 ## 2026-11-25（晚间轮）
 
 - 新增 9 条：真人 1、二次元 3、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
