@@ -48,6 +48,16 @@ docs/entry-convention.md          字段与模板
 
 | 入库日期 | 条目 | 标签 | 模型/工具 | 作者 / 原帖 |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | [「限界照れ顔」：上传角色图，满脸通红、脑袋冒蒸汽、眼神躲闪的极度害羞面部特写（结构化 2D 动画 prompt）](entries/2026-11-26/2125544651092595034.md) | 二次元 | 未注明 | [@shirumayo](https://x.com/shirumayo/status/2125544651092595034) |
+| 2026-11-26 | [「うちの子・専用万年筆」：把自家角色的配色与元素做成限定高级钢笔套装（钢笔 + 专用墨水瓶 + 礼盒 + 亚克力立牌，商品摄影风）](entries/2026-11-26/2125741348036960672.md) | 二次元 | 未注明 | [@AIXyu1v](https://x.com/AIXyu1v/status/2125741348036960672) |
+| 2026-11-26 | [「うちの子のぷっくり漫画シール」：上传角色图，做成 2×3 六格小故事的透明树脂立体贴纸商品照](entries/2026-11-26/2125533953000198310.md) | 二次元 | 未注明 | [@qW8n40tP5N48525](https://x.com/qW8n40tP5N48525/status/2125533953000198310) |
+| 2026-11-26 | [「MEOW」猫女海报：Niji 8 下的波普拼贴 + 马赛克多屏幕暗灰调宽幅壁纸](entries/2026-11-26/2125613207007981975.md) | 二次元 | Midjourney Niji 8（prompt 含 --niji 8） | [@Artedeingenio](https://x.com/Artedeingenio/status/2125613207007981975) |
+| 2026-11-26 | [奶白碎花露肩连衣裙的长直发女子：柔和窗光下的竖版手机自拍（iPhone 16 Pro 质感）](entries/2026-11-26/2125582778716881206.md) | 真人 | Nano Banana 2（经 @weryai，作者标注） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2125582778716881206) |
+| 2026-11-26 | [Old Money 90 年代地中海男装大片：薄荷绿亚麻衬衫男子倚靠黑色复古保时捷 911（带 HEX 色值的超细节人像 prompt）](entries/2026-11-26/2125866649039347753.md) | 真人 | Gemini Nano Banana 2.1（Gemini App，作者标注） | [@pictsbyai](https://x.com/pictsbyai/status/2125866649039347753) |
+| 2026-11-26 | [被 Keith Haring 风涂鸦墙吞噬：上传角色奋力挣脱、墙上无数 2D 涂鸦分身伸手拉扯（3D→2D 过渡，14mm 超广角）](entries/2026-11-26/2125640268812566868.md) | 其它 | 未注明 | [@edizkan_](https://x.com/edizkan_/status/2125640268812566868) |
+| 2026-11-26 | [广重风浮世绘：暮色雾河拱桥上的和服女子，远山晕染、樱瓣与灯笼（靛蓝 + 玫瑰金配色）](entries/2026-11-26/2125763719644815774.md) | 其它 | 未注明 | [@RockGrokAI](https://x.com/RockGrokAI/status/2125763719644815774) |
+| 2026-11-26 | [「子弹打光，被木乃伊大军包围」：沙漠神庙 30 秒动作冒险分镜（冒险家 + 考古学家 vs 大祭司，Seedance 2.5）](entries/2026-11-26/2125237996639400020.md) | 真人 | Seedance 2.5（经 @PolloAIJP，作者标注） | [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2125237996639400020) |
+| 2026-11-26 | [巨龙与超大号皮靴：乡村鞋匠 Daisy 给龙量脚、做靴、系鞋带的 30 秒奇幻喜剧短片](entries/2026-11-26/2125410341744247086.md) | 真人 | Seedance 2.5（作者标注） | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2125410341744247086) |
 | 2026-11-25 | [黑色细肩带上衣 + 心形吊坠 choker 的深棕精灵短发女子：暖调影棚时尚人像特写](entries/2026-11-25/2125182660406550918.md) | 真人 | Nano Banana 2（经 @weryai，作者标注） | [@dreamydigiarts](https://x.com/dreamydigiarts/status/2125182660406550918) |
 | 2026-11-25 | [「レーシング巫女」：白红巫女风机能夹克 × 黑色紧身连体内衬 × 赛车配色的衣装设计](entries/2026-11-25/2125182658762465538.md) | 二次元 | 未注明 | [@danierunobobu](https://x.com/danierunobobu/status/2125182658762465538) |
 | 2026-11-25 | [「No matter how long the night, the morning always comes」：上传角色设定图，倚墙坐在空房间地板上沐浴最后一缕暖阳（结构化角色 prompt）](entries/2026-11-25/2124916343770169698.md) | 二次元 | 未注明 | [@AurenVossVT](https://x.com/AurenVossVT/status/2124916343770169698) |

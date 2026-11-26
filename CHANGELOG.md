@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-26（晚间轮）
+
+- 新增 10 条：真人 4、二次元 4、其它 2。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 10 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@glenaunreal / @Glenajenner 三条名人 Nano Banana Pro 帖（Charli D'Amelio ×2、Anya Taylor-Joy，prompt 只在付费链接后）；@tyappynogenkai プリクラ帖（作者自述「1発アウト確実」，姿势带暗示）与同作者宝石内衣 8 选帖；@7102_nattoufu18 原创角色 prompt（作者明示可用于露出/成人向，prompt 含胸部描写）；@mio_quietdays 换衣フェチ帖、@1027mio0721masa 纹身「抜け道」帖（尺度偏成人）；@SakiH_AI Nano Banana Pro 人像（prompt 写半解衬衫露蕾丝内衣、flirtatious）；@alicehan_ai Nano Banana Pro 帖（按前几轮同类处理）；@sabzar_Ai 草地人像（成片胸部突出，看不准就跳过）；@NayaVerseee pin-up 海报帖（跨坐 + 弓背姿势，与前几轮同类处理一致）；@Aiminithoughts 多条 Grok Imagine / Kling 变身视频（prompt 仅一两句，且示例人物年龄看不准）；@daisuki_onun「救急箱」prompt（胸腹开门、骨架隔层，接近猎奇）；@AiWithSaira 龙与少女视频（与已收的 @Alina_with_Ai 同类题材高度重复）；@GlitterPixely、@aimikoda、@yumesyokunin、@92digitalartArt 等只给 --sref 代码的帖；@AIXyu1v 藤花女仆/执事衣装帖与八音盒帖、@Artedeingenio Omni-Man 帖（同作者已收一条，留待下轮）；@grgerwcwetwet 表情控制 prompt（只给外链）；@AiWithIqra 等「评论 GAME 领 prompt」帖。另有：多模型「同一 prompt 对比」帖、CapCut 等推广帖、越狱 prompt 帖、明示 NSFW 的视频帖、只谈 Niji 8 体验而无 prompt 的帖——均不收。
+- 本轮已避开 main、开放 PR #4–#7、#9–#21（含今晨 PR #21 curate/2026-11-26）及 curate/2026-10-29 至 curate/2026-11-26 各分支中已收录的帖子。
+
 ## 2026-11-25（晚间轮）
 
 - 新增 9 条：真人 1、二次元 3、其它 5。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
