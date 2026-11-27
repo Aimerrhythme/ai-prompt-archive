@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-27（早间轮）
+
+- 新增 6 条：真人 1、二次元 3、其它 2。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 7 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@tyappynogenkai 泡泡内衣发布会与「セルフチェック」帖（内衣/暴露向，ALT prompt 不标成人）；@antrospike 黑色漆皮连体衣影棚人像（成片臀部暴露）；@NeonTharja《炎炎消防队》风角色 prompt（示例多为露腹/赤膊的擦边构图）；@KrishnaBio1 韩剧风大学食堂视频（西装领带近似校服设定，按此前同类处理）；@NayaVerseee pin-up 系列（与前几轮同类处理一致）；@umej4m 衣装 prompt（只给外链）；@daisuki_onun 八音盒 / 换装帖（prompt 只在图片里）与「救急箱」帖（接近猎奇）；@HiFi_Lumien 冬装 prompt（自回复被截断）；@masako_3d 小猫视频（prompt 为借鉴他人创意，且视频模型未注明，留待复核）；@Glenajenner / @glenaunreal 名人 Nano Banana Pro 帖（付费墙）；@Artedeingenio（付费墙系）；@turtledumplin「Thanksgiving Mugshot」的转述帖（非原作者）；多模型「同一 prompt 对比」视频帖、MAGI-2 / Renoise 等推广帖、「评论 PROMPT 领取」帖——均不收。
+- 本轮已避开 main 及所有远端分支（开放 PR 与 curate/* 分支）中已收录的帖子。
+
 ## 2026-11-26（晚间轮）
 
 - 新增 10 条：真人 4、二次元 4、其它 2。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
