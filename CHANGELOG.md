@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-11-27（晚间轮）
+
+- 新增 8 条：真人 2、二次元 2、其它 4。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
+- 新增图片 13 张（pbs.twimg.com 原图 name=orig），存于 `media/images/`；视频截图 2 张，存于 `media/video-stills/`。
+- README 索引表加入本轮条目。
+- 跳过：@tyappynogenkai 泡泡内衣发布会帖（内衣题材，尺度偏成人）；@chihal_ai0509 两条衣装帖（自述「SEXY MODE」，且 prompt 不在文字里）；@kawagoe_ai 长裙蹲姿多模型帖（姿势带暗示，且无 prompt）；@VIBEQUIRKLABS Midjourney V8.2 头像帖（prompt 写「20 year old」，成片裸肩、面相偏幼，看不准就跳过）；@dreamydigiarts 泳装庭院人像（尺度偏成人）；@EugBass「built to be 18 forever」视频帖（年龄暗示，跳过）；@AiInfoyoko、@Johnny26671242 等成人/脱衣推广帖；@michaelrabone Harley Quinn sref 帖（主要是 --sref 代码，且首图偏性感）与同作者 Elle Fanning 紧身裙帖；@aimikoda、@ArtMuret、@McC3Kat、@tisch_eins 等只给 --sref 代码的帖；@itsshara_ai、@Viniai_、@ElectricalNeon、@RealBlackSpe 等「This AI video is an Absolute Masterpiece」Seedance 模板帖（线程中取不到 prompt 原文）；@Xaroon_x CapCut 推广视频（无 prompt 原文）；@EmberForgeLabs、@MYVagabondTX、@SiegeJt（prompt 只在 ChatGPT 分享外链）；@GlenajennerAi Ana de Armas 帖（prompt 在 Patreon 付费链接后）；@nai_Reality0714、@KittenKiki15（prompt 只在 note/外链）；@Le_Tavernicole 维多利亚束缚衣衣装帖（按保守原则不收，同作者已收感恩节一条）；@_luna000_m 书库壁咚帖、@Artedeingenio Jinx 帖、@Alina_with_Ai 溜冰篇（同作者已收一条，留待下轮）。另有：多模型「同一 prompt 对比」帖、借用他人 prompt 的转作帖、Niji 7→8 体验帖、工具推广帖——均不收。
+- 本轮已避开 main、开放 PR #4–#7、#9–#22（含今晨 PR #22 curate/2026-11-27）及 curate/2026-10-29 至 curate/2026-11-27 各分支中已收录的帖子。
+
 ## 2026-11-26（晚间轮）
 
 - 新增 10 条：真人 4、二次元 4、其它 2。其中视频条目 2 条（只留原帖链接和截图，不存视频文件）。
